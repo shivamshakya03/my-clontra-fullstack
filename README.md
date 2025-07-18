@@ -70,6 +70,9 @@ Frontend runs on localhost:5173 (default Vite port)
 Update API URLs in frontend services if backend port changes
 
 
+WEB_URL="https://my-clontra-fullstack.vercel.app/"
+
+
 Folder Highlights
 controller — Express controllers for API logic
 routes — Express route definitions
