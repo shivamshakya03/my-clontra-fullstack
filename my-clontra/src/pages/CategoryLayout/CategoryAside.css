@@ -1,0 +1,44 @@
+.pretty-aside {
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.07);
+  padding: 2rem 1.5rem;
+  width: 260px;
+  font-family: 'Segoe UI', Arial, sans-serif;
+  max-height: 100vh;
+  position: sticky;
+  top: 0;
+  overflow-y: auto;
+}
+
+.aside-section {
+  margin-bottom: 2rem;
+}
+
+.aside-title {
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: #333;
+  margin-bottom: 0.7rem;
+  letter-spacing: 1px;
+}
+
+.aside-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.aside-list-item {
+  padding: 0.5rem 0.7rem;
+  margin-bottom: 0.3rem;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background 0.2s, color 0.2s;
+  color: #444;
+}
+
+.aside-list-item:hover {
+  background: #f2f2f2;
+  color: #1976d2;
+}

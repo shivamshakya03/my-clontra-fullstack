@@ -1,0 +1,4662 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "T-Shirts Cool #1",
+      "price": 3436,
+      "rating": 3.1,
+      "category": "Men",
+      "subcategory": "Topwear",
+      "type": "T-Shirts",
+      "image": "https://imagescdn.pantaloons.com/img/app/product/9/908237-11218039.jpg?auto=format&w=450",
+      "brand": "HRX",
+      "sizes": [
+        "XXL",
+        "S",
+        "M",
+        "XL",
+        "L"
+      ],
+      "stock": 32
+    },
+    {
+      "id": 2,
+      "name": "T-Shirts Cool #2",
+      "price": 4639,
+      "rating": 3.4,
+      "category": "Men",
+      "subcategory": "Topwear",
+      "type": "T-Shirts",
+      "image": "https://rukminim2.flixcart.com/image/850/1000/l4rd0280/t-shirt/8/b/u/xl-405a-austiz-original-imagfh4fn6bg3vy7.jpeg?q=90&crop=false",
+      "brand": "H&M",
+      "sizes": [
+        "XL",
+        "XXL"
+      ],
+      "stock": 37
+    },
+    {
+      "id": 3,
+      "name": "T-Shirts Cool #3",
+      "price": 4377,
+      "rating": 3.1,
+      "category": "Men",
+      "subcategory": "Topwear",
+      "type": "T-Shirts",
+      "image": "https://image.made-in-china.com/365f3j00GudeAiBsrUqz/Men-s-Polo-T-Shirt-Custom-Design-Men-s-Stripe-T-Shirt-Collar-Neck-Long.webp",
+      "brand": "HRX",
+      "sizes": [
+        "L",
+        "XL",
+        "XXL",
+        "S"
+      ],
+      "stock": 48
+    },
+    {
+      "id": 4,
+      "name": "Casual Shirts Cool #4",
+      "price": 2284,
+      "rating": 4.1,
+      "category": "Men",
+      "subcategory": "Topwear",
+      "type": "Casual Shirts",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ_deTghCrfUy27SQuEa2B8W62EFARdCnbsw&s",
+      "brand": "Levis",
+      "sizes": [
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "stock": 20
+    },
+    {
+      "id": 5,
+      "name": "Casual Shirts Cool #5",
+      "price": 2030,
+      "rating": 3.2,
+      "category": "Men",
+      "subcategory": "Topwear",
+      "type": "Casual Shirts",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlURpUx_3s57Fy2-6Ut5mSlG6hvk-tyGsnhw&s",
+      "brand": "Puma",
+      "sizes": [
+        "XL",
+        "M"
+      ],
+      "stock": 69
+    },
+    {
+      "id": 6,
+      "name": "Casual Shirts Trendy #6",
+      "price": 1513,
+      "rating": 4.9,
+      "category": "Men",
+      "subcategory": "Topwear",
+      "type": "Casual Shirts",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGtO4mYjxNhCaofOJJFDhzPJ-sFJTCniTVNw&s",
+      "brand": "Adidas",
+      "sizes": [
+        "S",
+        "XXL",
+        "M"
+      ],
+      "stock": 63
+    },
+    {
+      "id": 7,
+      "name": "Casual Shirts Classic #7",
+      "price": 1245,
+      "rating": 4.3,
+      "category": "Men",
+      "subcategory": "Topwear",
+      "type": "Casual Shirts",
+      "image": "https://qikink.com/wp-content/uploads/2023/06/Unisex-classic-t-Shirt-qikink.webp",
+      "brand": "Puma",
+      "sizes": [
+        "M",
+        "L",
+        "S",
+        "XL",
+        "XXL"
+      ],
+      "stock": 38
+    },
+    {
+      "id": 8,
+      "name": "Casual Shirts Trendy #8",
+      "price": 1352,
+      "rating": 3.1,
+      "category": "Men",
+      "subcategory": "Topwear",
+      "type": "Casual Shirts",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlURpUx_3s57Fy2-6Ut5mSlG6hvk-tyGsnhw&s",
+      "brand": "HRX",
+      "sizes": [
+        "L",
+        "XL",
+        "M"
+      ],
+      "stock": 11
+    },
+    {
+      "id": 9,
+      "name": "Casual Shirts Classic #9",
+      "price": 4435,
+      "rating": 4.8,
+      "category": "Men",
+      "subcategory": "Topwear",
+      "type": "Casual Shirts",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlURpUx_3s57Fy2-6Ut5mSlG6hvk-tyGsnhw&s",
+      "brand": "Adidas",
+      "sizes": [
+        "S",
+        "L",
+        "XXL",
+        "XL"
+      ],
+      "stock": 56
+    },
+    {
+      "id": 10,
+      "name": "Casual Shirts Classic #10",
+      "price": 4987,
+      "rating": 3.7,
+      "category": "Men",
+      "subcategory": "Topwear",
+      "type": "Casual Shirts",
+      "image": "https://example.com/products/10.jpg",
+      "brand": "Nike",
+      "sizes": [
+        "S",
+        "M",
+        "XXL",
+        "L"
+      ],
+      "stock": 26
+    },
+    {
+      "id": 11,
+      "name": "Formal Shirts Trendy #11",
+      "price": 1653,
+      "rating": 4.3,
+      "category": "Men",
+      "subcategory": "Topwear",
+      "type": "Formal Shirts",
+      "image": "https://example.com/products/11.jpg",
+      "brand": "H&M",
+      "sizes": [
+        "S",
+        "L",
+        "M"
+      ],
+      "stock": 78
+    },
+    {
+      "id": 12,
+      "name": "Formal Shirts Trendy #12",
+      "price": 1469,
+      "rating": 4.9,
+      "category": "Men",
+      "subcategory": "Topwear",
+      "type": "Formal Shirts",
+      "image": "https://example.com/products/12.jpg",
+      "brand": "H&M",
+      "sizes": [
+        "L",
+        "S"
+      ],
+      "stock": 52
+    },
+    {
+      "id": 13,
+      "name": "Formal Shirts Cool #13",
+      "price": 3813,
+      "rating": 3.7,
+      "category": "Men",
+      "subcategory": "Topwear",
+      "type": "Formal Shirts",
+      "image": "https://example.com/products/13.jpg",
+      "brand": "Adidas",
+      "sizes": [
+        "S",
+        "M",
+        "XL"
+      ],
+      "stock": 36
+    },
+    {
+      "id": 14,
+      "name": "Formal Shirts Classic #14",
+      "price": 3982,
+      "rating": 3.9,
+      "category": "Men",
+      "subcategory": "Topwear",
+      "type": "Formal Shirts",
+      "image": "https://example.com/products/14.jpg",
+      "brand": "Adidas",
+      "sizes": [
+        "S",
+        "M",
+        "XXL",
+        "L"
+      ],
+      "stock": 21
+    },
+    {
+      "id": 15,
+      "name": "Sweatshirts Cool #15",
+      "price": 3745,
+      "rating": 3.4,
+      "category": "Men",
+      "subcategory": "Topwear",
+      "type": "Sweatshirts",
+      "image": "https://example.com/products/15.jpg",
+      "brand": "HRX",
+      "sizes": [
+        "M",
+        "XXL",
+        "S"
+      ],
+      "stock": 84
+    },
+    {
+      "id": 16,
+      "name": "Sweatshirts Trendy #16",
+      "price": 4790,
+      "rating": 3.9,
+      "category": "Men",
+      "subcategory": "Topwear",
+      "type": "Sweatshirts",
+      "image": "https://example.com/products/16.jpg",
+      "brand": "HRX",
+      "sizes": [
+        "M",
+        "L",
+        "S",
+        "XXL"
+      ],
+      "stock": 57
+    },
+    {
+      "id": 17,
+      "name": "Sweatshirts Cool #17",
+      "price": 1739,
+      "rating": 4.1,
+      "category": "Men",
+      "subcategory": "Topwear",
+      "type": "Sweatshirts",
+      "image": "https://example.com/products/17.jpg",
+      "brand": "Nike",
+      "sizes": [
+        "S",
+        "XL",
+        "M"
+      ],
+      "stock": 82
+    },
+    {
+      "id": 18,
+      "name": "Sweatshirts Cool #18",
+      "price": 2213,
+      "rating": 3.1,
+      "category": "Men",
+      "subcategory": "Topwear",
+      "type": "Sweatshirts",
+      "image": "https://example.com/products/18.jpg",
+      "brand": "HRX",
+      "sizes": [
+        "M",
+        "L",
+        "XL",
+        "S",
+        "XXL"
+      ],
+      "stock": 47
+    },
+    {
+      "id": 19,
+      "name": "Sweatshirts Classic #19",
+      "price": 2847,
+      "rating": 4.7,
+      "category": "Men",
+      "subcategory": "Topwear",
+      "type": "Sweatshirts",
+      "image": "https://example.com/products/19.jpg",
+      "brand": "H&M",
+      "sizes": [
+        "XXL",
+        "XL"
+      ],
+      "stock": 82
+    },
+    {
+      "id": 20,
+      "name": "Sweatshirts Cool #20",
+      "price": 1802,
+      "rating": 3.5,
+      "category": "Men",
+      "subcategory": "Topwear",
+      "type": "Sweatshirts",
+      "image": "https://example.com/products/20.jpg",
+      "brand": "Puma",
+      "sizes": [
+        "S",
+        "XXL",
+        "XL"
+      ],
+      "stock": 90
+    },
+    {
+      "id": 21,
+      "name": "Sweatshirts Stylish #21",
+      "price": 2858,
+      "rating": 3.5,
+      "category": "Men",
+      "subcategory": "Topwear",
+      "type": "Sweatshirts",
+      "image": "https://example.com/products/21.jpg",
+      "brand": "Puma",
+      "sizes": [
+        "L",
+        "XL"
+      ],
+      "stock": 28
+    },
+    {
+      "id": 22,
+      "name": "Sweaters Stylish #22",
+      "price": 3002,
+      "rating": 4.9,
+      "category": "Men",
+      "subcategory": "Topwear",
+      "type": "Sweaters",
+      "image": "https://example.com/products/22.jpg",
+      "brand": "Roadster",
+      "sizes": [
+        "XXL",
+        "L",
+        "XL",
+        "S",
+        "M"
+      ],
+      "stock": 57
+    },
+    {
+      "id": 23,
+      "name": "Sweaters Stylish #23",
+      "price": 3938,
+      "rating": 3.1,
+      "category": "Men",
+      "subcategory": "Topwear",
+      "type": "Sweaters",
+      "image": "https://example.com/products/23.jpg",
+      "brand": "Nike",
+      "sizes": [
+        "S",
+        "XXL",
+        "M"
+      ],
+      "stock": 33
+    },
+    {
+      "id": 24,
+      "name": "Sweaters Stylish #24",
+      "price": 1510,
+      "rating": 3.6,
+      "category": "Men",
+      "subcategory": "Topwear",
+      "type": "Sweaters",
+      "image": "https://example.com/products/24.jpg",
+      "brand": "Levis",
+      "sizes": [
+        "XXL",
+        "L",
+        "XL",
+        "M",
+        "S"
+      ],
+      "stock": 52
+    },
+    {
+      "id": 25,
+      "name": "Sweaters Stylish #25",
+      "price": 4221,
+      "rating": 4.0,
+      "category": "Men",
+      "subcategory": "Topwear",
+      "type": "Sweaters",
+      "image": "https://example.com/products/25.jpg",
+      "brand": "Adidas",
+      "sizes": [
+        "XL",
+        "S",
+        "M",
+        "L",
+        "XXL"
+      ],
+      "stock": 56
+    },
+    {
+      "id": 26,
+      "name": "Sweaters Cool #26",
+      "price": 604,
+      "rating": 3.4,
+      "category": "Men",
+      "subcategory": "Topwear",
+      "type": "Sweaters",
+      "image": "https://example.com/products/26.jpg",
+      "brand": "Puma",
+      "sizes": [
+        "L",
+        "M",
+        "XXL",
+        "S",
+        "XL"
+      ],
+      "stock": 27
+    },
+    {
+      "id": 27,
+      "name": "Sweaters Stylish #27",
+      "price": 2621,
+      "rating": 4.9,
+      "category": "Men",
+      "subcategory": "Topwear",
+      "type": "Sweaters",
+      "image": "https://example.com/products/27.jpg",
+      "brand": "Nike",
+      "sizes": [
+        "M",
+        "S",
+        "XXL"
+      ],
+      "stock": 33
+    },
+    {
+      "id": 28,
+      "name": "Sweaters Classic #28",
+      "price": 1213,
+      "rating": 4.7,
+      "category": "Men",
+      "subcategory": "Topwear",
+      "type": "Sweaters",
+      "image": "https://example.com/products/28.jpg",
+      "brand": "Roadster",
+      "sizes": [
+        "XXL",
+        "XL",
+        "M",
+        "S"
+      ],
+      "stock": 70
+    },
+    {
+      "id": 29,
+      "name": "Jackets Trendy #29",
+      "price": 1324,
+      "rating": 4.5,
+      "category": "Men",
+      "subcategory": "Topwear",
+      "type": "Jackets",
+      "image": "https://example.com/products/29.jpg",
+      "brand": "Nike",
+      "sizes": [
+        "L",
+        "M",
+        "XL",
+        "S"
+      ],
+      "stock": 94
+    },
+    {
+      "id": 30,
+      "name": "Jackets Trendy #30",
+      "price": 2066,
+      "rating": 4.4,
+      "category": "Men",
+      "subcategory": "Topwear",
+      "type": "Jackets",
+      "image": "https://example.com/products/30.jpg",
+      "brand": "H&M",
+      "sizes": [
+        "S",
+        "XXL",
+        "XL",
+        "L"
+      ],
+      "stock": 90
+    },
+    {
+      "id": 31,
+      "name": "Jackets Stylish #31",
+      "price": 1143,
+      "rating": 4.9,
+      "category": "Men",
+      "subcategory": "Topwear",
+      "type": "Jackets",
+      "image": "https://example.com/products/31.jpg",
+      "brand": "Adidas",
+      "sizes": [
+        "XL",
+        "M",
+        "L"
+      ],
+      "stock": 96
+    },
+    {
+      "id": 32,
+      "name": "Blazers & Coats Cool #32",
+      "price": 3960,
+      "rating": 4.5,
+      "category": "Men",
+      "subcategory": "Topwear",
+      "type": "Blazers & Coats",
+      "image": "https://example.com/products/32.jpg",
+      "brand": "Adidas",
+      "sizes": [
+        "XL",
+        "S"
+      ],
+      "stock": 26
+    },
+    {
+      "id": 33,
+      "name": "Blazers & Coats Classic #33",
+      "price": 846,
+      "rating": 3.1,
+      "category": "Men",
+      "subcategory": "Topwear",
+      "type": "Blazers & Coats",
+      "image": "https://example.com/products/33.jpg",
+      "brand": "HRX",
+      "sizes": [
+        "XL",
+        "S",
+        "XXL"
+      ],
+      "stock": 20
+    },
+    {
+      "id": 34,
+      "name": "Blazers & Coats Trendy #34",
+      "price": 2035,
+      "rating": 5.0,
+      "category": "Men",
+      "subcategory": "Topwear",
+      "type": "Blazers & Coats",
+      "image": "https://example.com/products/34.jpg",
+      "brand": "Adidas",
+      "sizes": [
+        "XL",
+        "XXL",
+        "S",
+        "L"
+      ],
+      "stock": 71
+    },
+    {
+      "id": 35,
+      "name": "Blazers & Coats Trendy #35",
+      "price": 4749,
+      "rating": 4.9,
+      "category": "Men",
+      "subcategory": "Topwear",
+      "type": "Blazers & Coats",
+      "image": "https://example.com/products/35.jpg",
+      "brand": "Adidas",
+      "sizes": [
+        "L",
+        "S",
+        "XXL",
+        "XL"
+      ],
+      "stock": 49
+    },
+    {
+      "id": 36,
+      "name": "Blazers & Coats Classic #36",
+      "price": 4519,
+      "rating": 3.6,
+      "category": "Men",
+      "subcategory": "Topwear",
+      "type": "Blazers & Coats",
+      "image": "https://example.com/products/36.jpg",
+      "brand": "Puma",
+      "sizes": [
+        "XL",
+        "M",
+        "XXL"
+      ],
+      "stock": 52
+    },
+    {
+      "id": 37,
+      "name": "Suits Classic #37",
+      "price": 4984,
+      "rating": 3.8,
+      "category": "Men",
+      "subcategory": "Topwear",
+      "type": "Suits",
+      "image": "https://example.com/products/37.jpg",
+      "brand": "Adidas",
+      "sizes": [
+        "XXL",
+        "L"
+      ],
+      "stock": 29
+    },
+    {
+      "id": 38,
+      "name": "Suits Stylish #38",
+      "price": 2038,
+      "rating": 4.8,
+      "category": "Men",
+      "subcategory": "Topwear",
+      "type": "Suits",
+      "image": "https://example.com/products/38.jpg",
+      "brand": "HRX",
+      "sizes": [
+        "M",
+        "S",
+        "L"
+      ],
+      "stock": 80
+    },
+    {
+      "id": 39,
+      "name": "Suits Stylish #39",
+      "price": 570,
+      "rating": 3.2,
+      "category": "Men",
+      "subcategory": "Topwear",
+      "type": "Suits",
+      "image": "https://example.com/products/39.jpg",
+      "brand": "Adidas",
+      "sizes": [
+        "L",
+        "XXL",
+        "S"
+      ],
+      "stock": 66
+    },
+    {
+      "id": 40,
+      "name": "Suits Classic #40",
+      "price": 2939,
+      "rating": 3.9,
+      "category": "Men",
+      "subcategory": "Topwear",
+      "type": "Suits",
+      "image": "https://example.com/products/40.jpg",
+      "brand": "Roadster",
+      "sizes": [
+        "M",
+        "S"
+      ],
+      "stock": 64
+    },
+    {
+      "id": 41,
+      "name": "Rain Jackets Classic #41",
+      "price": 4980,
+      "rating": 4.6,
+      "category": "Men",
+      "subcategory": "Topwear",
+      "type": "Rain Jackets",
+      "image": "https://example.com/products/41.jpg",
+      "brand": "Roadster",
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ],
+      "stock": 83
+    },
+    {
+      "id": 42,
+      "name": "Rain Jackets Cool #42",
+      "price": 4225,
+      "rating": 4.0,
+      "category": "Men",
+      "subcategory": "Topwear",
+      "type": "Rain Jackets",
+      "image": "https://example.com/products/42.jpg",
+      "brand": "Roadster",
+      "sizes": [
+        "L",
+        "XXL",
+        "XL"
+      ],
+      "stock": 92
+    },
+    {
+      "id": 43,
+      "name": "Rain Jackets Cool #43",
+      "price": 2024,
+      "rating": 3.8,
+      "category": "Men",
+      "subcategory": "Topwear",
+      "type": "Rain Jackets",
+      "image": "https://example.com/products/43.jpg",
+      "brand": "Adidas",
+      "sizes": [
+        "L",
+        "M",
+        "XL",
+        "S",
+        "XXL"
+      ],
+      "stock": 79
+    },
+    {
+      "id": 44,
+      "name": "Rain Jackets Classic #44",
+      "price": 3368,
+      "rating": 4.4,
+      "category": "Men",
+      "subcategory": "Topwear",
+      "type": "Rain Jackets",
+      "image": "https://example.com/products/44.jpg",
+      "brand": "Levis",
+      "sizes": [
+        "M",
+        "S",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "stock": 13
+    },
+    {
+      "id": 45,
+      "name": "Rain Jackets Stylish #45",
+      "price": 352,
+      "rating": 4.9,
+      "category": "Men",
+      "subcategory": "Topwear",
+      "type": "Rain Jackets",
+      "image": "https://example.com/products/45.jpg",
+      "brand": "Roadster",
+      "sizes": [
+        "XXL",
+        "L",
+        "M",
+        "XL",
+        "S"
+      ],
+      "stock": 35
+    },
+    {
+      "id": 46,
+      "name": "Rain Jackets Classic #46",
+      "price": 3462,
+      "rating": 4.2,
+      "category": "Men",
+      "subcategory": "Topwear",
+      "type": "Rain Jackets",
+      "image": "https://example.com/products/46.jpg",
+      "brand": "H&M",
+      "sizes": [
+        "M",
+        "XL",
+        "S"
+      ],
+      "stock": 25
+    },
+    {
+      "id": 47,
+      "name": "Kurtas & Kurta Sets Classic #47",
+      "price": 4446,
+      "rating": 4.7,
+      "category": "Men",
+      "subcategory": "Indian & Festive Wear",
+      "type": "Kurtas & Kurta Sets",
+      "image": "https://example.com/products/47.jpg",
+      "brand": "Levis",
+      "sizes": [
+        "L",
+        "S",
+        "XL",
+        "M"
+      ],
+      "stock": 54
+    },
+    {
+      "id": 48,
+      "name": "Kurtas & Kurta Sets Stylish #48",
+      "price": 4909,
+      "rating": 3.6,
+      "category": "Men",
+      "subcategory": "Indian & Festive Wear",
+      "type": "Kurtas & Kurta Sets",
+      "image": "https://example.com/products/48.jpg",
+      "brand": "Adidas",
+      "sizes": [
+        "M",
+        "XXL",
+        "S"
+      ],
+      "stock": 12
+    },
+    {
+      "id": 49,
+      "name": "Kurtas & Kurta Sets Classic #49",
+      "price": 3373,
+      "rating": 3.5,
+      "category": "Men",
+      "subcategory": "Indian & Festive Wear",
+      "type": "Kurtas & Kurta Sets",
+      "image": "https://example.com/products/49.jpg",
+      "brand": "Nike",
+      "sizes": [
+        "XL",
+        "S",
+        "XXL"
+      ],
+      "stock": 32
+    },
+    {
+      "id": 50,
+      "name": "Kurtas & Kurta Sets Stylish #50",
+      "price": 2571,
+      "rating": 3.1,
+      "category": "Men",
+      "subcategory": "Indian & Festive Wear",
+      "type": "Kurtas & Kurta Sets",
+      "image": "https://example.com/products/50.jpg",
+      "brand": "H&M",
+      "sizes": [
+        "XXL",
+        "S",
+        "XL",
+        "L"
+      ],
+      "stock": 11
+    },
+    {
+      "id": 51,
+      "name": "Kurtas & Kurta Sets Stylish #51",
+      "price": 1725,
+      "rating": 4.8,
+      "category": "Men",
+      "subcategory": "Indian & Festive Wear",
+      "type": "Kurtas & Kurta Sets",
+      "image": "https://example.com/products/51.jpg",
+      "brand": "Roadster",
+      "sizes": [
+        "M",
+        "XXL",
+        "L",
+        "S",
+        "XL"
+      ],
+      "stock": 80
+    },
+    {
+      "id": 52,
+      "name": "Kurtas & Kurta Sets Stylish #52",
+      "price": 930,
+      "rating": 3.4,
+      "category": "Men",
+      "subcategory": "Indian & Festive Wear",
+      "type": "Kurtas & Kurta Sets",
+      "image": "https://example.com/products/52.jpg",
+      "brand": "Puma",
+      "sizes": [
+        "S",
+        "XL",
+        "L",
+        "XXL"
+      ],
+      "stock": 33
+    },
+    {
+      "id": 53,
+      "name": "Sherwanis Trendy #53",
+      "price": 1569,
+      "rating": 4.6,
+      "category": "Men",
+      "subcategory": "Indian & Festive Wear",
+      "type": "Sherwanis",
+      "image": "https://example.com/products/53.jpg",
+      "brand": "Adidas",
+      "sizes": [
+        "XL",
+        "S",
+        "XXL",
+        "M"
+      ],
+      "stock": 72
+    },
+    {
+      "id": 54,
+      "name": "Sherwanis Trendy #54",
+      "price": 3332,
+      "rating": 4.3,
+      "category": "Men",
+      "subcategory": "Indian & Festive Wear",
+      "type": "Sherwanis",
+      "image": "https://example.com/products/54.jpg",
+      "brand": "Adidas",
+      "sizes": [
+        "S",
+        "M"
+      ],
+      "stock": 47
+    },
+    {
+      "id": 55,
+      "name": "Sherwanis Trendy #55",
+      "price": 4757,
+      "rating": 4.8,
+      "category": "Men",
+      "subcategory": "Indian & Festive Wear",
+      "type": "Sherwanis",
+      "image": "https://example.com/products/55.jpg",
+      "brand": "Roadster",
+      "sizes": [
+        "L",
+        "S",
+        "M"
+      ],
+      "stock": 94
+    },
+    {
+      "id": 56,
+      "name": "Sherwanis Trendy #56",
+      "price": 4015,
+      "rating": 4.3,
+      "category": "Men",
+      "subcategory": "Indian & Festive Wear",
+      "type": "Sherwanis",
+      "image": "https://example.com/products/56.jpg",
+      "brand": "Adidas",
+      "sizes": [
+        "L",
+        "M"
+      ],
+      "stock": 22
+    },
+    {
+      "id": 57,
+      "name": "Sherwanis Cool #57",
+      "price": 905,
+      "rating": 4.2,
+      "category": "Men",
+      "subcategory": "Indian & Festive Wear",
+      "type": "Sherwanis",
+      "image": "https://example.com/products/57.jpg",
+      "brand": "Roadster",
+      "sizes": [
+        "XXL",
+        "XL"
+      ],
+      "stock": 21
+    },
+    {
+      "id": 58,
+      "name": "Sherwanis Stylish #58",
+      "price": 1256,
+      "rating": 3.8,
+      "category": "Men",
+      "subcategory": "Indian & Festive Wear",
+      "type": "Sherwanis",
+      "image": "https://example.com/products/58.jpg",
+      "brand": "HRX",
+      "sizes": [
+        "XL",
+        "S"
+      ],
+      "stock": 14
+    },
+    {
+      "id": 59,
+      "name": "Sherwanis Cool #59",
+      "price": 4537,
+      "rating": 4.3,
+      "category": "Men",
+      "subcategory": "Indian & Festive Wear",
+      "type": "Sherwanis",
+      "image": "https://example.com/products/59.jpg",
+      "brand": "HRX",
+      "sizes": [
+        "M",
+        "XL"
+      ],
+      "stock": 88
+    },
+    {
+      "id": 60,
+      "name": "Sherwanis Classic #60",
+      "price": 797,
+      "rating": 3.9,
+      "category": "Men",
+      "subcategory": "Indian & Festive Wear",
+      "type": "Sherwanis",
+      "image": "https://example.com/products/60.jpg",
+      "brand": "Puma",
+      "sizes": [
+        "L",
+        "XXL",
+        "M",
+        "S"
+      ],
+      "stock": 79
+    },
+    {
+      "id": 61,
+      "name": "Nehru Jackets Trendy #61",
+      "price": 4178,
+      "rating": 4.5,
+      "category": "Men",
+      "subcategory": "Indian & Festive Wear",
+      "type": "Nehru Jackets",
+      "image": "https://example.com/products/61.jpg",
+      "brand": "Levis",
+      "sizes": [
+        "M",
+        "L",
+        "S"
+      ],
+      "stock": 65
+    },
+    {
+      "id": 62,
+      "name": "Nehru Jackets Cool #62",
+      "price": 4171,
+      "rating": 4.6,
+      "category": "Men",
+      "subcategory": "Indian & Festive Wear",
+      "type": "Nehru Jackets",
+      "image": "https://example.com/products/62.jpg",
+      "brand": "Nike",
+      "sizes": [
+        "L",
+        "XL",
+        "XXL",
+        "S"
+      ],
+      "stock": 85
+    },
+    {
+      "id": 63,
+      "name": "Nehru Jackets Stylish #63",
+      "price": 4195,
+      "rating": 4.4,
+      "category": "Men",
+      "subcategory": "Indian & Festive Wear",
+      "type": "Nehru Jackets",
+      "image": "https://example.com/products/63.jpg",
+      "brand": "HRX",
+      "sizes": [
+        "M",
+        "XL"
+      ],
+      "stock": 28
+    },
+    {
+      "id": 64,
+      "name": "Nehru Jackets Trendy #64",
+      "price": 3982,
+      "rating": 3.8,
+      "category": "Men",
+      "subcategory": "Indian & Festive Wear",
+      "type": "Nehru Jackets",
+      "image": "https://example.com/products/64.jpg",
+      "brand": "HRX",
+      "sizes": [
+        "XXL",
+        "XL",
+        "M",
+        "S"
+      ],
+      "stock": 43
+    },
+    {
+      "id": 65,
+      "name": "Nehru Jackets Classic #65",
+      "price": 1767,
+      "rating": 4.7,
+      "category": "Men",
+      "subcategory": "Indian & Festive Wear",
+      "type": "Nehru Jackets",
+      "image": "https://example.com/products/65.jpg",
+      "brand": "HRX",
+      "sizes": [
+        "M",
+        "XXL",
+        "S",
+        "L"
+      ],
+      "stock": 57
+    },
+    {
+      "id": 66,
+      "name": "Nehru Jackets Stylish #66",
+      "price": 2715,
+      "rating": 4.6,
+      "category": "Men",
+      "subcategory": "Indian & Festive Wear",
+      "type": "Nehru Jackets",
+      "image": "https://example.com/products/66.jpg",
+      "brand": "H&M",
+      "sizes": [
+        "XL",
+        "L",
+        "S",
+        "XXL"
+      ],
+      "stock": 28
+    },
+    {
+      "id": 67,
+      "name": "Nehru Jackets Stylish #67",
+      "price": 318,
+      "rating": 3.8,
+      "category": "Men",
+      "subcategory": "Indian & Festive Wear",
+      "type": "Nehru Jackets",
+      "image": "https://example.com/products/67.jpg",
+      "brand": "Roadster",
+      "sizes": [
+        "XL",
+        "XXL",
+        "S",
+        "M"
+      ],
+      "stock": 36
+    },
+    {
+      "id": 68,
+      "name": "Nehru Jackets Cool #68",
+      "price": 929,
+      "rating": 3.8,
+      "category": "Men",
+      "subcategory": "Indian & Festive Wear",
+      "type": "Nehru Jackets",
+      "image": "https://example.com/products/68.jpg",
+      "brand": "Levis",
+      "sizes": [
+        "XL",
+        "M",
+        "S",
+        "XXL",
+        "L"
+      ],
+      "stock": 50
+    },
+    {
+      "id": 69,
+      "name": "Dhotis Stylish #69",
+      "price": 2623,
+      "rating": 4.0,
+      "category": "Men",
+      "subcategory": "Indian & Festive Wear",
+      "type": "Dhotis",
+      "image": "https://example.com/products/69.jpg",
+      "brand": "HRX",
+      "sizes": [
+        "L",
+        "M",
+        "XXL",
+        "S"
+      ],
+      "stock": 88
+    },
+    {
+      "id": 70,
+      "name": "Dhotis Cool #70",
+      "price": 1772,
+      "rating": 3.1,
+      "category": "Men",
+      "subcategory": "Indian & Festive Wear",
+      "type": "Dhotis",
+      "image": "https://example.com/products/70.jpg",
+      "brand": "Puma",
+      "sizes": [
+        "S",
+        "XXL"
+      ],
+      "stock": 54
+    },
+    {
+      "id": 71,
+      "name": "Dhotis Stylish #71",
+      "price": 1707,
+      "rating": 3.7,
+      "category": "Men",
+      "subcategory": "Indian & Festive Wear",
+      "type": "Dhotis",
+      "image": "https://example.com/products/71.jpg",
+      "brand": "Levis",
+      "sizes": [
+        "M",
+        "S",
+        "XXL"
+      ],
+      "stock": 80
+    },
+    {
+      "id": 72,
+      "name": "Dhotis Classic #72",
+      "price": 4907,
+      "rating": 4.3,
+      "category": "Men",
+      "subcategory": "Indian & Festive Wear",
+      "type": "Dhotis",
+      "image": "https://example.com/products/72.jpg",
+      "brand": "Levis",
+      "sizes": [
+        "M",
+        "S",
+        "L",
+        "XXL",
+        "XL"
+      ],
+      "stock": 44
+    },
+    {
+      "id": 73,
+      "name": "Dhotis Classic #73",
+      "price": 1067,
+      "rating": 3.9,
+      "category": "Men",
+      "subcategory": "Indian & Festive Wear",
+      "type": "Dhotis",
+      "image": "https://example.com/products/73.jpg",
+      "brand": "Adidas",
+      "sizes": [
+        "XXL",
+        "M"
+      ],
+      "stock": 92
+    },
+    {
+      "id": 74,
+      "name": "Jeans Classic #74",
+      "price": 1118,
+      "rating": 4.0,
+      "category": "Men",
+      "subcategory": "Bottomwear",
+      "type": "Jeans",
+      "image": "https://example.com/products/74.jpg",
+      "brand": "H&M",
+      "sizes": [
+        "XL",
+        "L",
+        "M",
+        "S",
+        "XXL"
+      ],
+      "stock": 56
+    },
+    {
+      "id": 75,
+      "name": "Jeans Classic #75",
+      "price": 3426,
+      "rating": 3.5,
+      "category": "Men",
+      "subcategory": "Bottomwear",
+      "type": "Jeans",
+      "image": "https://example.com/products/75.jpg",
+      "brand": "Roadster",
+      "sizes": [
+        "S",
+        "XL",
+        "L",
+        "M"
+      ],
+      "stock": 22
+    },
+    {
+      "id": 76,
+      "name": "Jeans Trendy #76",
+      "price": 2028,
+      "rating": 4.6,
+      "category": "Men",
+      "subcategory": "Bottomwear",
+      "type": "Jeans",
+      "image": "https://example.com/products/76.jpg",
+      "brand": "Roadster",
+      "sizes": [
+        "S",
+        "L",
+        "M",
+        "XXL",
+        "XL"
+      ],
+      "stock": 62
+    },
+    {
+      "id": 77,
+      "name": "Jeans Cool #77",
+      "price": 659,
+      "rating": 4.9,
+      "category": "Men",
+      "subcategory": "Bottomwear",
+      "type": "Jeans",
+      "image": "https://example.com/products/77.jpg",
+      "brand": "Puma",
+      "sizes": [
+        "XL",
+        "S"
+      ],
+      "stock": 34
+    },
+    {
+      "id": 78,
+      "name": "Jeans Classic #78",
+      "price": 1714,
+      "rating": 3.6,
+      "category": "Men",
+      "subcategory": "Bottomwear",
+      "type": "Jeans",
+      "image": "https://example.com/products/78.jpg",
+      "brand": "Levis",
+      "sizes": [
+        "L",
+        "M",
+        "XXL",
+        "XL",
+        "S"
+      ],
+      "stock": 30
+    },
+    {
+      "id": 79,
+      "name": "Casual Trousers Trendy #79",
+      "price": 3252,
+      "rating": 3.1,
+      "category": "Men",
+      "subcategory": "Bottomwear",
+      "type": "Casual Trousers",
+      "image": "https://example.com/products/79.jpg",
+      "brand": "HRX",
+      "sizes": [
+        "S",
+        "XL"
+      ],
+      "stock": 77
+    },
+    {
+      "id": 80,
+      "name": "Casual Trousers Classic #80",
+      "price": 565,
+      "rating": 4.8,
+      "category": "Men",
+      "subcategory": "Bottomwear",
+      "type": "Casual Trousers",
+      "image": "https://example.com/products/80.jpg",
+      "brand": "Levis",
+      "sizes": [
+        "L",
+        "XL"
+      ],
+      "stock": 84
+    },
+    {
+      "id": 81,
+      "name": "Casual Trousers Classic #81",
+      "price": 2068,
+      "rating": 3.8,
+      "category": "Men",
+      "subcategory": "Bottomwear",
+      "type": "Casual Trousers",
+      "image": "https://example.com/products/81.jpg",
+      "brand": "HRX",
+      "sizes": [
+        "XXL",
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "stock": 43
+    },
+    {
+      "id": 82,
+      "name": "Casual Trousers Trendy #82",
+      "price": 4897,
+      "rating": 3.7,
+      "category": "Men",
+      "subcategory": "Bottomwear",
+      "type": "Casual Trousers",
+      "image": "https://example.com/products/82.jpg",
+      "brand": "H&M",
+      "sizes": [
+        "XL",
+        "M",
+        "XXL",
+        "L",
+        "S"
+      ],
+      "stock": 68
+    },
+    {
+      "id": 83,
+      "name": "Casual Trousers Stylish #83",
+      "price": 2501,
+      "rating": 4.1,
+      "category": "Men",
+      "subcategory": "Bottomwear",
+      "type": "Casual Trousers",
+      "image": "https://example.com/products/83.jpg",
+      "brand": "Levis",
+      "sizes": [
+        "M",
+        "S",
+        "L",
+        "XL"
+      ],
+      "stock": 95
+    },
+    {
+      "id": 84,
+      "name": "Casual Trousers Cool #84",
+      "price": 4136,
+      "rating": 4.8,
+      "category": "Men",
+      "subcategory": "Bottomwear",
+      "type": "Casual Trousers",
+      "image": "https://example.com/products/84.jpg",
+      "brand": "Levis",
+      "sizes": [
+        "XXL",
+        "S",
+        "L"
+      ],
+      "stock": 91
+    },
+    {
+      "id": 85,
+      "name": "Formal Trousers Classic #85",
+      "price": 4169,
+      "rating": 3.6,
+      "category": "Men",
+      "subcategory": "Bottomwear",
+      "type": "Formal Trousers",
+      "image": "https://example.com/products/85.jpg",
+      "brand": "Puma",
+      "sizes": [
+        "M",
+        "L",
+        "XXL",
+        "XL",
+        "S"
+      ],
+      "stock": 29
+    },
+    {
+      "id": 86,
+      "name": "Formal Trousers Classic #86",
+      "price": 3175,
+      "rating": 4.5,
+      "category": "Men",
+      "subcategory": "Bottomwear",
+      "type": "Formal Trousers",
+      "image": "https://example.com/products/86.jpg",
+      "brand": "Levis",
+      "sizes": [
+        "L",
+        "XL"
+      ],
+      "stock": 76
+    },
+    {
+      "id": 87,
+      "name": "Formal Trousers Cool #87",
+      "price": 3200,
+      "rating": 4.4,
+      "category": "Men",
+      "subcategory": "Bottomwear",
+      "type": "Formal Trousers",
+      "image": "https://example.com/products/87.jpg",
+      "brand": "Adidas",
+      "sizes": [
+        "M",
+        "S",
+        "XL",
+        "L",
+        "XXL"
+      ],
+      "stock": 12
+    },
+    {
+      "id": 88,
+      "name": "Formal Trousers Classic #88",
+      "price": 463,
+      "rating": 3.6,
+      "category": "Men",
+      "subcategory": "Bottomwear",
+      "type": "Formal Trousers",
+      "image": "https://example.com/products/88.jpg",
+      "brand": "Roadster",
+      "sizes": [
+        "L",
+        "XXL"
+      ],
+      "stock": 38
+    },
+    {
+      "id": 89,
+      "name": "Formal Trousers Cool #89",
+      "price": 4832,
+      "rating": 4.4,
+      "category": "Men",
+      "subcategory": "Bottomwear",
+      "type": "Formal Trousers",
+      "image": "https://example.com/products/89.jpg",
+      "brand": "Adidas",
+      "sizes": [
+        "S",
+        "L",
+        "M",
+        "XXL"
+      ],
+      "stock": 29
+    },
+    {
+      "id": 90,
+      "name": "Formal Trousers Cool #90",
+      "price": 4251,
+      "rating": 4.4,
+      "category": "Men",
+      "subcategory": "Bottomwear",
+      "type": "Formal Trousers",
+      "image": "https://example.com/products/90.jpg",
+      "brand": "Roadster",
+      "sizes": [
+        "L",
+        "XL",
+        "XXL",
+        "M"
+      ],
+      "stock": 92
+    },
+    {
+      "id": 91,
+      "name": "Formal Trousers Stylish #91",
+      "price": 1413,
+      "rating": 3.2,
+      "category": "Men",
+      "subcategory": "Bottomwear",
+      "type": "Formal Trousers",
+      "image": "https://example.com/products/91.jpg",
+      "brand": "Roadster",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XXL"
+      ],
+      "stock": 34
+    },
+    {
+      "id": 92,
+      "name": "Formal Trousers Classic #92",
+      "price": 3791,
+      "rating": 4.7,
+      "category": "Men",
+      "subcategory": "Bottomwear",
+      "type": "Formal Trousers",
+      "image": "https://example.com/products/92.jpg",
+      "brand": "H&M",
+      "sizes": [
+        "L",
+        "M",
+        "XL",
+        "XXL"
+      ],
+      "stock": 80
+    },
+    {
+      "id": 93,
+      "name": "Shorts Cool #93",
+      "price": 546,
+      "rating": 3.6,
+      "category": "Men",
+      "subcategory": "Bottomwear",
+      "type": "Shorts",
+      "image": "https://example.com/products/93.jpg",
+      "brand": "Adidas",
+      "sizes": [
+        "S",
+        "XXL",
+        "L",
+        "XL",
+        "M"
+      ],
+      "stock": 85
+    },
+    {
+      "id": 94,
+      "name": "Shorts Classic #94",
+      "price": 1542,
+      "rating": 3.8,
+      "category": "Men",
+      "subcategory": "Bottomwear",
+      "type": "Shorts",
+      "image": "https://example.com/products/94.jpg",
+      "brand": "Adidas",
+      "sizes": [
+        "XXL",
+        "M",
+        "L"
+      ],
+      "stock": 65
+    },
+    {
+      "id": 95,
+      "name": "Shorts Classic #95",
+      "price": 4031,
+      "rating": 5.0,
+      "category": "Men",
+      "subcategory": "Bottomwear",
+      "type": "Shorts",
+      "image": "https://example.com/products/95.jpg",
+      "brand": "HRX",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "stock": 99
+    },
+    {
+      "id": 96,
+      "name": "Shorts Stylish #96",
+      "price": 1606,
+      "rating": 3.2,
+      "category": "Men",
+      "subcategory": "Bottomwear",
+      "type": "Shorts",
+      "image": "https://example.com/products/96.jpg",
+      "brand": "Roadster",
+      "sizes": [
+        "XL",
+        "XXL"
+      ],
+      "stock": 75
+    },
+    {
+      "id": 97,
+      "name": "Shorts Cool #97",
+      "price": 3739,
+      "rating": 3.9,
+      "category": "Men",
+      "subcategory": "Bottomwear",
+      "type": "Shorts",
+      "image": "https://example.com/products/97.jpg",
+      "brand": "Levis",
+      "sizes": [
+        "M",
+        "XXL",
+        "XL"
+      ],
+      "stock": 80
+    },
+    {
+      "id": 98,
+      "name": "Shorts Classic #98",
+      "price": 3400,
+      "rating": 3.5,
+      "category": "Men",
+      "subcategory": "Bottomwear",
+      "type": "Shorts",
+      "image": "https://example.com/products/98.jpg",
+      "brand": "Puma",
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "stock": 82
+    },
+    {
+      "id": 99,
+      "name": "Track Pants & Joggers Trendy #99",
+      "price": 1321,
+      "rating": 5.0,
+      "category": "Men",
+      "subcategory": "Bottomwear",
+      "type": "Track Pants & Joggers",
+      "image": "https://example.com/products/99.jpg",
+      "brand": "Puma",
+      "sizes": [
+        "S",
+        "L"
+      ],
+      "stock": 97
+    },
+    {
+      "id": 100,
+      "name": "Track Pants & Joggers Cool #100",
+      "price": 3636,
+      "rating": 4.5,
+      "category": "Men",
+      "subcategory": "Bottomwear",
+      "type": "Track Pants & Joggers",
+      "image": "https://example.com/products/100.jpg",
+      "brand": "Levis",
+      "sizes": [
+        "XXL",
+        "XL",
+        "L"
+      ],
+      "stock": 19
+    },
+    {
+      "id": 101,
+      "name": "Track Pants & Joggers Cool #101",
+      "price": 1402,
+      "rating": 4.5,
+      "category": "Men",
+      "subcategory": "Bottomwear",
+      "type": "Track Pants & Joggers",
+      "image": "https://example.com/products/101.jpg",
+      "brand": "Adidas",
+      "sizes": [
+        "XL",
+        "L",
+        "XXL",
+        "M"
+      ],
+      "stock": 33
+    },
+    {
+      "id": 102,
+      "name": "Track Pants & Joggers Trendy #102",
+      "price": 451,
+      "rating": 3.4,
+      "category": "Men",
+      "subcategory": "Bottomwear",
+      "type": "Track Pants & Joggers",
+      "image": "https://example.com/products/102.jpg",
+      "brand": "HRX",
+      "sizes": [
+        "M",
+        "XL",
+        "XXL",
+        "L",
+        "S"
+      ],
+      "stock": 69
+    },
+    {
+      "id": 103,
+      "name": "Track Pants & Joggers Trendy #103",
+      "price": 2399,
+      "rating": 3.7,
+      "category": "Men",
+      "subcategory": "Bottomwear",
+      "type": "Track Pants & Joggers",
+      "image": "https://example.com/products/103.jpg",
+      "brand": "Roadster",
+      "sizes": [
+        "XL",
+        "M"
+      ],
+      "stock": 48
+    },
+    {
+      "id": 104,
+      "name": "Track Pants & Joggers Classic #104",
+      "price": 1191,
+      "rating": 3.1,
+      "category": "Men",
+      "subcategory": "Bottomwear",
+      "type": "Track Pants & Joggers",
+      "image": "https://example.com/products/104.jpg",
+      "brand": "H&M",
+      "sizes": [
+        "XXL",
+        "XL"
+      ],
+      "stock": 29
+    },
+    {
+      "id": 105,
+      "name": "Briefs & Trunks Classic #105",
+      "price": 4749,
+      "rating": 3.7,
+      "category": "Men",
+      "subcategory": "Innerwear & Sleepwear",
+      "type": "Briefs & Trunks",
+      "image": "https://example.com/products/105.jpg",
+      "brand": "H&M",
+      "sizes": [
+        "XXL",
+        "S",
+        "XL",
+        "M",
+        "L"
+      ],
+      "stock": 30
+    },
+    {
+      "id": 106,
+      "name": "Briefs & Trunks Trendy #106",
+      "price": 657,
+      "rating": 4.2,
+      "category": "Men",
+      "subcategory": "Innerwear & Sleepwear",
+      "type": "Briefs & Trunks",
+      "image": "https://example.com/products/106.jpg",
+      "brand": "HRX",
+      "sizes": [
+        "XXL",
+        "XL",
+        "L"
+      ],
+      "stock": 63
+    },
+    {
+      "id": 107,
+      "name": "Briefs & Trunks Classic #107",
+      "price": 1646,
+      "rating": 3.5,
+      "category": "Men",
+      "subcategory": "Innerwear & Sleepwear",
+      "type": "Briefs & Trunks",
+      "image": "https://example.com/products/107.jpg",
+      "brand": "H&M",
+      "sizes": [
+        "L",
+        "S",
+        "XL",
+        "XXL",
+        "M"
+      ],
+      "stock": 33
+    },
+    {
+      "id": 108,
+      "name": "Briefs & Trunks Trendy #108",
+      "price": 2880,
+      "rating": 3.7,
+      "category": "Men",
+      "subcategory": "Innerwear & Sleepwear",
+      "type": "Briefs & Trunks",
+      "image": "https://example.com/products/108.jpg",
+      "brand": "Roadster",
+      "sizes": [
+        "XXL",
+        "M"
+      ],
+      "stock": 70
+    },
+    {
+      "id": 109,
+      "name": "Boxers Classic #109",
+      "price": 2445,
+      "rating": 3.5,
+      "category": "Men",
+      "subcategory": "Innerwear & Sleepwear",
+      "type": "Boxers",
+      "image": "https://example.com/products/109.jpg",
+      "brand": "Roadster",
+      "sizes": [
+        "XXL",
+        "L",
+        "M",
+        "S",
+        "XL"
+      ],
+      "stock": 66
+    },
+    {
+      "id": 110,
+      "name": "Boxers Trendy #110",
+      "price": 3640,
+      "rating": 3.7,
+      "category": "Men",
+      "subcategory": "Innerwear & Sleepwear",
+      "type": "Boxers",
+      "image": "https://example.com/products/110.jpg",
+      "brand": "Adidas",
+      "sizes": [
+        "XXL",
+        "XL",
+        "M"
+      ],
+      "stock": 86
+    },
+    {
+      "id": 111,
+      "name": "Boxers Trendy #111",
+      "price": 2007,
+      "rating": 3.8,
+      "category": "Men",
+      "subcategory": "Innerwear & Sleepwear",
+      "type": "Boxers",
+      "image": "https://example.com/products/111.jpg",
+      "brand": "Adidas",
+      "sizes": [
+        "L",
+        "XXL",
+        "XL",
+        "M",
+        "S"
+      ],
+      "stock": 40
+    },
+    {
+      "id": 112,
+      "name": "Boxers Classic #112",
+      "price": 2785,
+      "rating": 3.8,
+      "category": "Men",
+      "subcategory": "Innerwear & Sleepwear",
+      "type": "Boxers",
+      "image": "https://example.com/products/112.jpg",
+      "brand": "H&M",
+      "sizes": [
+        "XL",
+        "L",
+        "XXL",
+        "M"
+      ],
+      "stock": 86
+    },
+    {
+      "id": 113,
+      "name": "Boxers Cool #113",
+      "price": 4270,
+      "rating": 4.9,
+      "category": "Men",
+      "subcategory": "Innerwear & Sleepwear",
+      "type": "Boxers",
+      "image": "https://example.com/products/113.jpg",
+      "brand": "H&M",
+      "sizes": [
+        "XXL",
+        "L",
+        "XL",
+        "M"
+      ],
+      "stock": 28
+    },
+    {
+      "id": 114,
+      "name": "Vests Stylish #114",
+      "price": 830,
+      "rating": 3.8,
+      "category": "Men",
+      "subcategory": "Innerwear & Sleepwear",
+      "type": "Vests",
+      "image": "https://example.com/products/114.jpg",
+      "brand": "H&M",
+      "sizes": [
+        "L",
+        "XL"
+      ],
+      "stock": 82
+    },
+    {
+      "id": 115,
+      "name": "Vests Stylish #115",
+      "price": 4799,
+      "rating": 4.6,
+      "category": "Men",
+      "subcategory": "Innerwear & Sleepwear",
+      "type": "Vests",
+      "image": "https://example.com/products/115.jpg",
+      "brand": "Roadster",
+      "sizes": [
+        "S",
+        "L",
+        "M"
+      ],
+      "stock": 63
+    },
+    {
+      "id": 116,
+      "name": "Vests Stylish #116",
+      "price": 679,
+      "rating": 4.3,
+      "category": "Men",
+      "subcategory": "Innerwear & Sleepwear",
+      "type": "Vests",
+      "image": "https://example.com/products/116.jpg",
+      "brand": "HRX",
+      "sizes": [
+        "L",
+        "S",
+        "M",
+        "XXL"
+      ],
+      "stock": 86
+    },
+    {
+      "id": 117,
+      "name": "Sleepwear & Loungewear Trendy #117",
+      "price": 1455,
+      "rating": 4.7,
+      "category": "Men",
+      "subcategory": "Innerwear & Sleepwear",
+      "type": "Sleepwear & Loungewear",
+      "image": "https://example.com/products/117.jpg",
+      "brand": "Puma",
+      "sizes": [
+        "M",
+        "XL",
+        "S"
+      ],
+      "stock": 20
+    },
+    {
+      "id": 118,
+      "name": "Sleepwear & Loungewear Classic #118",
+      "price": 4751,
+      "rating": 4.4,
+      "category": "Men",
+      "subcategory": "Innerwear & Sleepwear",
+      "type": "Sleepwear & Loungewear",
+      "image": "https://example.com/products/118.jpg",
+      "brand": "Levis",
+      "sizes": [
+        "XL",
+        "M",
+        "L",
+        "XXL",
+        "S"
+      ],
+      "stock": 100
+    },
+    {
+      "id": 119,
+      "name": "Sleepwear & Loungewear Stylish #119",
+      "price": 1080,
+      "rating": 4.7,
+      "category": "Men",
+      "subcategory": "Innerwear & Sleepwear",
+      "type": "Sleepwear & Loungewear",
+      "image": "https://example.com/products/119.jpg",
+      "brand": "Puma",
+      "sizes": [
+        "XL",
+        "L"
+      ],
+      "stock": 42
+    },
+    {
+      "id": 120,
+      "name": "Sleepwear & Loungewear Stylish #120",
+      "price": 1297,
+      "rating": 4.4,
+      "category": "Men",
+      "subcategory": "Innerwear & Sleepwear",
+      "type": "Sleepwear & Loungewear",
+      "image": "https://example.com/products/120.jpg",
+      "brand": "Levis",
+      "sizes": [
+        "XXL",
+        "M",
+        "S",
+        "L"
+      ],
+      "stock": 33
+    },
+    {
+      "id": 121,
+      "name": "Sleepwear & Loungewear Cool #121",
+      "price": 1897,
+      "rating": 4.5,
+      "category": "Men",
+      "subcategory": "Innerwear & Sleepwear",
+      "type": "Sleepwear & Loungewear",
+      "image": "https://example.com/products/121.jpg",
+      "brand": "Nike",
+      "sizes": [
+        "XL",
+        "XXL"
+      ],
+      "stock": 74
+    },
+    {
+      "id": 122,
+      "name": "Sleepwear & Loungewear Stylish #122",
+      "price": 1513,
+      "rating": 4.6,
+      "category": "Men",
+      "subcategory": "Innerwear & Sleepwear",
+      "type": "Sleepwear & Loungewear",
+      "image": "https://example.com/products/122.jpg",
+      "brand": "Puma",
+      "sizes": [
+        "L",
+        "XXL"
+      ],
+      "stock": 16
+    },
+    {
+      "id": 123,
+      "name": "Thermals Classic #123",
+      "price": 4618,
+      "rating": 4.0,
+      "category": "Men",
+      "subcategory": "Innerwear & Sleepwear",
+      "type": "Thermals",
+      "image": "https://example.com/products/123.jpg",
+      "brand": "Puma",
+      "sizes": [
+        "XXL",
+        "XL",
+        "S"
+      ],
+      "stock": 41
+    },
+    {
+      "id": 124,
+      "name": "Thermals Cool #124",
+      "price": 3144,
+      "rating": 3.7,
+      "category": "Men",
+      "subcategory": "Innerwear & Sleepwear",
+      "type": "Thermals",
+      "image": "https://example.com/products/124.jpg",
+      "brand": "Puma",
+      "sizes": [
+        "M",
+        "XL",
+        "L",
+        "XXL"
+      ],
+      "stock": 55
+    },
+    {
+      "id": 125,
+      "name": "Thermals Stylish #125",
+      "price": 4772,
+      "rating": 4.5,
+      "category": "Men",
+      "subcategory": "Innerwear & Sleepwear",
+      "type": "Thermals",
+      "image": "https://example.com/products/125.jpg",
+      "brand": "Levis",
+      "sizes": [
+        "S",
+        "M"
+      ],
+      "stock": 98
+    },
+    {
+      "id": 126,
+      "name": "Thermals Stylish #126",
+      "price": 3981,
+      "rating": 3.7,
+      "category": "Men",
+      "subcategory": "Innerwear & Sleepwear",
+      "type": "Thermals",
+      "image": "https://example.com/products/126.jpg",
+      "brand": "Adidas",
+      "sizes": [
+        "XXL",
+        "M"
+      ],
+      "stock": 49
+    },
+    {
+      "id": 127,
+      "name": "Thermals Classic #127",
+      "price": 4217,
+      "rating": 3.4,
+      "category": "Men",
+      "subcategory": "Innerwear & Sleepwear",
+      "type": "Thermals",
+      "image": "https://example.com/products/127.jpg",
+      "brand": "Roadster",
+      "sizes": [
+        "L",
+        "M",
+        "XXL"
+      ],
+      "stock": 29
+    },
+    {
+      "id": 128,
+      "name": "Thermals Classic #128",
+      "price": 1387,
+      "rating": 3.1,
+      "category": "Men",
+      "subcategory": "Innerwear & Sleepwear",
+      "type": "Thermals",
+      "image": "https://example.com/products/128.jpg",
+      "brand": "Levis",
+      "sizes": [
+        "M",
+        "XL"
+      ],
+      "stock": 98
+    },
+    {
+      "id": 129,
+      "name": "Plus Size Stylish #129",
+      "price": 1868,
+      "rating": 3.2,
+      "category": "Men",
+      "subcategory": "Plus Size",
+      "type": "Plus Size",
+      "image": "https://example.com/products/129.jpg",
+      "brand": "HRX",
+      "sizes": [
+        "L",
+        "XXL"
+      ],
+      "stock": 60
+    },
+    {
+      "id": 130,
+      "name": "Plus Size Stylish #130",
+      "price": 4269,
+      "rating": 3.2,
+      "category": "Men",
+      "subcategory": "Plus Size",
+      "type": "Plus Size",
+      "image": "https://example.com/products/130.jpg",
+      "brand": "Roadster",
+      "sizes": [
+        "M",
+        "S",
+        "XXL",
+        "XL",
+        "L"
+      ],
+      "stock": 74
+    },
+    {
+      "id": 131,
+      "name": "Plus Size Cool #131",
+      "price": 4455,
+      "rating": 4.7,
+      "category": "Men",
+      "subcategory": "Plus Size",
+      "type": "Plus Size",
+      "image": "https://example.com/products/131.jpg",
+      "brand": "H&M",
+      "sizes": [
+        "XXL",
+        "XL",
+        "M"
+      ],
+      "stock": 49
+    },
+    {
+      "id": 132,
+      "name": "Plus Size Stylish #132",
+      "price": 521,
+      "rating": 4.9,
+      "category": "Men",
+      "subcategory": "Plus Size",
+      "type": "Plus Size",
+      "image": "https://example.com/products/132.jpg",
+      "brand": "Nike",
+      "sizes": [
+        "XXL",
+        "L",
+        "S"
+      ],
+      "stock": 26
+    },
+    {
+      "id": 133,
+      "name": "Plus Size Stylish #133",
+      "price": 2166,
+      "rating": 4.6,
+      "category": "Men",
+      "subcategory": "Plus Size",
+      "type": "Plus Size",
+      "image": "https://example.com/products/133.jpg",
+      "brand": "Adidas",
+      "sizes": [
+        "L",
+        "M",
+        "XL",
+        "XXL"
+      ],
+      "stock": 100
+    },
+    {
+      "id": 134,
+      "name": "Plus Size Stylish #134",
+      "price": 3371,
+      "rating": 3.3,
+      "category": "Men",
+      "subcategory": "Plus Size",
+      "type": "Plus Size",
+      "image": "https://example.com/products/134.jpg",
+      "brand": "Puma",
+      "sizes": [
+        "S",
+        "M",
+        "XL",
+        "XXL",
+        "L"
+      ],
+      "stock": 20
+    },
+    {
+      "id": 135,
+      "name": "Plus Size Trendy #135",
+      "price": 2951,
+      "rating": 3.4,
+      "category": "Men",
+      "subcategory": "Plus Size",
+      "type": "Plus Size",
+      "image": "https://example.com/products/135.jpg",
+      "brand": "Levis",
+      "sizes": [
+        "S",
+        "M",
+        "XXL",
+        "XL",
+        "L"
+      ],
+      "stock": 33
+    },
+    {
+      "id": 136,
+      "name": "Plus Size Stylish #136",
+      "price": 1163,
+      "rating": 4.0,
+      "category": "Men",
+      "subcategory": "Plus Size",
+      "type": "Plus Size",
+      "image": "https://example.com/products/136.jpg",
+      "brand": "Adidas",
+      "sizes": [
+        "S",
+        "L",
+        "M"
+      ],
+      "stock": 72
+    },
+    {
+      "id": 137,
+      "name": "Casual Shoes Classic #137",
+      "price": 3511,
+      "rating": 3.6,
+      "category": "Men",
+      "subcategory": "Footwear",
+      "type": "Casual Shoes",
+      "image": "https://example.com/products/137.jpg",
+      "brand": "Nike",
+      "sizes": [
+        "XXL",
+        "XL",
+        "L",
+        "M",
+        "S"
+      ],
+      "stock": 17
+    },
+    {
+      "id": 138,
+      "name": "Casual Shoes Trendy #138",
+      "price": 1034,
+      "rating": 3.0,
+      "category": "Men",
+      "subcategory": "Footwear",
+      "type": "Casual Shoes",
+      "image": "https://example.com/products/138.jpg",
+      "brand": "Puma",
+      "sizes": [
+        "XXL",
+        "L",
+        "S",
+        "XL",
+        "M"
+      ],
+      "stock": 45
+    },
+    {
+      "id": 139,
+      "name": "Casual Shoes Classic #139",
+      "price": 2116,
+      "rating": 3.5,
+      "category": "Men",
+      "subcategory": "Footwear",
+      "type": "Casual Shoes",
+      "image": "https://example.com/products/139.jpg",
+      "brand": "Adidas",
+      "sizes": [
+        "S",
+        "M"
+      ],
+      "stock": 31
+    },
+    {
+      "id": 140,
+      "name": "Casual Shoes Trendy #140",
+      "price": 1908,
+      "rating": 4.2,
+      "category": "Men",
+      "subcategory": "Footwear",
+      "type": "Casual Shoes",
+      "image": "https://example.com/products/140.jpg",
+      "brand": "Adidas",
+      "sizes": [
+        "M",
+        "XL"
+      ],
+      "stock": 38
+    },
+    {
+      "id": 141,
+      "name": "Casual Shoes Trendy #141",
+      "price": 3861,
+      "rating": 4.3,
+      "category": "Men",
+      "subcategory": "Footwear",
+      "type": "Casual Shoes",
+      "image": "https://example.com/products/141.jpg",
+      "brand": "HRX",
+      "sizes": [
+        "M",
+        "L",
+        "S",
+        "XXL",
+        "XL"
+      ],
+      "stock": 11
+    },
+    {
+      "id": 142,
+      "name": "Sports Shoes Classic #142",
+      "price": 4807,
+      "rating": 4.5,
+      "category": "Men",
+      "subcategory": "Footwear",
+      "type": "Sports Shoes",
+      "image": "https://example.com/products/142.jpg",
+      "brand": "HRX",
+      "sizes": [
+        "S",
+        "XL",
+        "L"
+      ],
+      "stock": 72
+    },
+    {
+      "id": 143,
+      "name": "Sports Shoes Cool #143",
+      "price": 2419,
+      "rating": 4.1,
+      "category": "Men",
+      "subcategory": "Footwear",
+      "type": "Sports Shoes",
+      "image": "https://example.com/products/143.jpg",
+      "brand": "H&M",
+      "sizes": [
+        "XXL",
+        "L"
+      ],
+      "stock": 47
+    },
+    {
+      "id": 144,
+      "name": "Sports Shoes Cool #144",
+      "price": 4432,
+      "rating": 3.8,
+      "category": "Men",
+      "subcategory": "Footwear",
+      "type": "Sports Shoes",
+      "image": "https://example.com/products/144.jpg",
+      "brand": "H&M",
+      "sizes": [
+        "XL",
+        "L",
+        "S",
+        "XXL"
+      ],
+      "stock": 70
+    },
+    {
+      "id": 145,
+      "name": "Formal Shoes Stylish #145",
+      "price": 2352,
+      "rating": 5.0,
+      "category": "Men",
+      "subcategory": "Footwear",
+      "type": "Formal Shoes",
+      "image": "https://example.com/products/145.jpg",
+      "brand": "H&M",
+      "sizes": [
+        "L",
+        "XL",
+        "XXL",
+        "S",
+        "M"
+      ],
+      "stock": 46
+    },
+    {
+      "id": 146,
+      "name": "Formal Shoes Stylish #146",
+      "price": 3636,
+      "rating": 3.9,
+      "category": "Men",
+      "subcategory": "Footwear",
+      "type": "Formal Shoes",
+      "image": "https://example.com/products/146.jpg",
+      "brand": "HRX",
+      "sizes": [
+        "L",
+        "M",
+        "S"
+      ],
+      "stock": 29
+    },
+    {
+      "id": 147,
+      "name": "Formal Shoes Stylish #147",
+      "price": 1841,
+      "rating": 3.4,
+      "category": "Men",
+      "subcategory": "Footwear",
+      "type": "Formal Shoes",
+      "image": "https://example.com/products/147.jpg",
+      "brand": "HRX",
+      "sizes": [
+        "XL",
+        "L",
+        "M",
+        "XXL"
+      ],
+      "stock": 87
+    },
+    {
+      "id": 148,
+      "name": "Formal Shoes Cool #148",
+      "price": 2996,
+      "rating": 3.4,
+      "category": "Men",
+      "subcategory": "Footwear",
+      "type": "Formal Shoes",
+      "image": "https://example.com/products/148.jpg",
+      "brand": "HRX",
+      "sizes": [
+        "XXL",
+        "S"
+      ],
+      "stock": 58
+    },
+    {
+      "id": 149,
+      "name": "Formal Shoes Trendy #149",
+      "price": 1657,
+      "rating": 3.9,
+      "category": "Men",
+      "subcategory": "Footwear",
+      "type": "Formal Shoes",
+      "image": "https://example.com/products/149.jpg",
+      "brand": "H&M",
+      "sizes": [
+        "S",
+        "XL"
+      ],
+      "stock": 22
+    },
+    {
+      "id": 150,
+      "name": "Formal Shoes Trendy #150",
+      "price": 402,
+      "rating": 4.5,
+      "category": "Men",
+      "subcategory": "Footwear",
+      "type": "Formal Shoes",
+      "image": "https://example.com/products/150.jpg",
+      "brand": "Nike",
+      "sizes": [
+        "XL",
+        "XXL"
+      ],
+      "stock": 55
+    },
+    {
+      "id": 151,
+      "name": "Sneakers Stylish #151",
+      "price": 916,
+      "rating": 4.8,
+      "category": "Men",
+      "subcategory": "Footwear",
+      "type": "Sneakers",
+      "image": "https://example.com/products/151.jpg",
+      "brand": "Nike",
+      "sizes": [
+        "L",
+        "S"
+      ],
+      "stock": 73
+    },
+    {
+      "id": 152,
+      "name": "Sneakers Stylish #152",
+      "price": 1111,
+      "rating": 4.0,
+      "category": "Men",
+      "subcategory": "Footwear",
+      "type": "Sneakers",
+      "image": "https://example.com/products/152.jpg",
+      "brand": "Adidas",
+      "sizes": [
+        "L",
+        "M",
+        "S",
+        "XXL"
+      ],
+      "stock": 12
+    },
+    {
+      "id": 153,
+      "name": "Sneakers Cool #153",
+      "price": 4839,
+      "rating": 4.4,
+      "category": "Men",
+      "subcategory": "Footwear",
+      "type": "Sneakers",
+      "image": "https://example.com/products/153.jpg",
+      "brand": "Puma",
+      "sizes": [
+        "XXL",
+        "M"
+      ],
+      "stock": 39
+    },
+    {
+      "id": 154,
+      "name": "Sneakers Trendy #154",
+      "price": 2398,
+      "rating": 4.4,
+      "category": "Men",
+      "subcategory": "Footwear",
+      "type": "Sneakers",
+      "image": "https://example.com/products/154.jpg",
+      "brand": "Nike",
+      "sizes": [
+        "S",
+        "L",
+        "M",
+        "XL"
+      ],
+      "stock": 34
+    },
+    {
+      "id": 155,
+      "name": "Sandals & Floaters Cool #155",
+      "price": 2335,
+      "rating": 3.7,
+      "category": "Men",
+      "subcategory": "Footwear",
+      "type": "Sandals & Floaters",
+      "image": "https://example.com/products/155.jpg",
+      "brand": "Roadster",
+      "sizes": [
+        "L",
+        "S",
+        "XL",
+        "XXL",
+        "M"
+      ],
+      "stock": 58
+    },
+    {
+      "id": 156,
+      "name": "Sandals & Floaters Stylish #156",
+      "price": 1622,
+      "rating": 4.6,
+      "category": "Men",
+      "subcategory": "Footwear",
+      "type": "Sandals & Floaters",
+      "image": "https://example.com/products/156.jpg",
+      "brand": "H&M",
+      "sizes": [
+        "S",
+        "L",
+        "XXL",
+        "M",
+        "XL"
+      ],
+      "stock": 66
+    },
+    {
+      "id": 157,
+      "name": "Sandals & Floaters Trendy #157",
+      "price": 2916,
+      "rating": 4.5,
+      "category": "Men",
+      "subcategory": "Footwear",
+      "type": "Sandals & Floaters",
+      "image": "https://example.com/products/157.jpg",
+      "brand": "Puma",
+      "sizes": [
+        "XL",
+        "S",
+        "L"
+      ],
+      "stock": 43
+    },
+    {
+      "id": 158,
+      "name": "Sandals & Floaters Trendy #158",
+      "price": 4398,
+      "rating": 3.7,
+      "category": "Men",
+      "subcategory": "Footwear",
+      "type": "Sandals & Floaters",
+      "image": "https://example.com/products/158.jpg",
+      "brand": "H&M",
+      "sizes": [
+        "S",
+        "M",
+        "XXL",
+        "XL"
+      ],
+      "stock": 35
+    },
+    {
+      "id": 159,
+      "name": "Sandals & Floaters Trendy #159",
+      "price": 4434,
+      "rating": 5.0,
+      "category": "Men",
+      "subcategory": "Footwear",
+      "type": "Sandals & Floaters",
+      "image": "https://example.com/products/159.jpg",
+      "brand": "Levis",
+      "sizes": [
+        "XXL",
+        "S",
+        "XL"
+      ],
+      "stock": 30
+    },
+    {
+      "id": 160,
+      "name": "Sandals & Floaters Stylish #160",
+      "price": 2458,
+      "rating": 3.4,
+      "category": "Men",
+      "subcategory": "Footwear",
+      "type": "Sandals & Floaters",
+      "image": "https://example.com/products/160.jpg",
+      "brand": "HRX",
+      "sizes": [
+        "M",
+        "L"
+      ],
+      "stock": 36
+    },
+    {
+      "id": 161,
+      "name": "Flip Flops Classic #161",
+      "price": 697,
+      "rating": 4.0,
+      "category": "Men",
+      "subcategory": "Footwear",
+      "type": "Flip Flops",
+      "image": "https://example.com/products/161.jpg",
+      "brand": "Puma",
+      "sizes": [
+        "M",
+        "XXL"
+      ],
+      "stock": 49
+    },
+    {
+      "id": 162,
+      "name": "Flip Flops Trendy #162",
+      "price": 512,
+      "rating": 3.6,
+      "category": "Men",
+      "subcategory": "Footwear",
+      "type": "Flip Flops",
+      "image": "https://example.com/products/162.jpg",
+      "brand": "Nike",
+      "sizes": [
+        "M",
+        "XL",
+        "S",
+        "L"
+      ],
+      "stock": 53
+    },
+    {
+      "id": 163,
+      "name": "Flip Flops Classic #163",
+      "price": 2122,
+      "rating": 4.3,
+      "category": "Men",
+      "subcategory": "Footwear",
+      "type": "Flip Flops",
+      "image": "https://example.com/products/163.jpg",
+      "brand": "H&M",
+      "sizes": [
+        "L",
+        "XXL",
+        "XL"
+      ],
+      "stock": 36
+    },
+    {
+      "id": 164,
+      "name": "Socks Classic #164",
+      "price": 1889,
+      "rating": 3.1,
+      "category": "Men",
+      "subcategory": "Footwear",
+      "type": "Socks",
+      "image": "https://example.com/products/164.jpg",
+      "brand": "Puma",
+      "sizes": [
+        "XXL",
+        "M",
+        "XL",
+        "S",
+        "L"
+      ],
+      "stock": 100
+    },
+    {
+      "id": 165,
+      "name": "Socks Trendy #165",
+      "price": 4406,
+      "rating": 3.7,
+      "category": "Men",
+      "subcategory": "Footwear",
+      "type": "Socks",
+      "image": "https://example.com/products/165.jpg",
+      "brand": "Levis",
+      "sizes": [
+        "L",
+        "M",
+        "S",
+        "XXL",
+        "XL"
+      ],
+      "stock": 61
+    },
+    {
+      "id": 166,
+      "name": "Socks Stylish #166",
+      "price": 3769,
+      "rating": 3.6,
+      "category": "Men",
+      "subcategory": "Footwear",
+      "type": "Socks",
+      "image": "https://example.com/products/166.jpg",
+      "brand": "Roadster",
+      "sizes": [
+        "L",
+        "XL",
+        "M"
+      ],
+      "stock": 89
+    },
+    {
+      "id": 167,
+      "name": "Socks Cool #167",
+      "price": 1111,
+      "rating": 3.4,
+      "category": "Men",
+      "subcategory": "Footwear",
+      "type": "Socks",
+      "image": "https://example.com/products/167.jpg",
+      "brand": "H&M",
+      "sizes": [
+        "M",
+        "L",
+        "S"
+      ],
+      "stock": 82
+    },
+    {
+      "id": 168,
+      "name": "Socks Classic #168",
+      "price": 4213,
+      "rating": 4.4,
+      "category": "Men",
+      "subcategory": "Footwear",
+      "type": "Socks",
+      "image": "https://example.com/products/168.jpg",
+      "brand": "Roadster",
+      "sizes": [
+        "S",
+        "L",
+        "XL",
+        "XXL",
+        "M"
+      ],
+      "stock": 53
+    },
+    {
+      "id": 169,
+      "name": "Personal Care & Grooming Stylish #169",
+      "price": 4665,
+      "rating": 3.3,
+      "category": "Men",
+      "subcategory": "Personal Care & Grooming",
+      "type": "Personal Care & Grooming",
+      "image": "https://example.com/products/169.jpg",
+      "brand": "H&M",
+      "sizes": [
+        "S",
+        "M",
+        "XXL"
+      ],
+      "stock": 42
+    },
+    {
+      "id": 170,
+      "name": "Personal Care & Grooming Classic #170",
+      "price": 3059,
+      "rating": 3.3,
+      "category": "Men",
+      "subcategory": "Personal Care & Grooming",
+      "type": "Personal Care & Grooming",
+      "image": "https://example.com/products/170.jpg",
+      "brand": "Nike",
+      "sizes": [
+        "XXL",
+        "XL",
+        "M"
+      ],
+      "stock": 71
+    },
+    {
+      "id": 171,
+      "name": "Personal Care & Grooming Classic #171",
+      "price": 546,
+      "rating": 3.3,
+      "category": "Men",
+      "subcategory": "Personal Care & Grooming",
+      "type": "Personal Care & Grooming",
+      "image": "https://example.com/products/171.jpg",
+      "brand": "Levis",
+      "sizes": [
+        "S",
+        "L",
+        "XXL",
+        "M",
+        "XL"
+      ],
+      "stock": 39
+    },
+    {
+      "id": 172,
+      "name": "Personal Care & Grooming Trendy #172",
+      "price": 3035,
+      "rating": 4.0,
+      "category": "Men",
+      "subcategory": "Personal Care & Grooming",
+      "type": "Personal Care & Grooming",
+      "image": "https://example.com/products/172.jpg",
+      "brand": "Roadster",
+      "sizes": [
+        "M",
+        "XXL"
+      ],
+      "stock": 48
+    },
+    {
+      "id": 173,
+      "name": "Personal Care & Grooming Trendy #173",
+      "price": 445,
+      "rating": 3.5,
+      "category": "Men",
+      "subcategory": "Personal Care & Grooming",
+      "type": "Personal Care & Grooming",
+      "image": "https://example.com/products/173.jpg",
+      "brand": "Nike",
+      "sizes": [
+        "S",
+        "L",
+        "XXL",
+        "M"
+      ],
+      "stock": 28
+    },
+    {
+      "id": 174,
+      "name": "Personal Care & Grooming Cool #174",
+      "price": 2370,
+      "rating": 3.5,
+      "category": "Men",
+      "subcategory": "Personal Care & Grooming",
+      "type": "Personal Care & Grooming",
+      "image": "https://example.com/products/174.jpg",
+      "brand": "H&M",
+      "sizes": [
+        "M",
+        "XL"
+      ],
+      "stock": 16
+    },
+    {
+      "id": 175,
+      "name": "Personal Care & Grooming Trendy #175",
+      "price": 3794,
+      "rating": 4.5,
+      "category": "Men",
+      "subcategory": "Personal Care & Grooming",
+      "type": "Personal Care & Grooming",
+      "image": "https://example.com/products/175.jpg",
+      "brand": "Adidas",
+      "sizes": [
+        "S",
+        "M",
+        "XL",
+        "XXL"
+      ],
+      "stock": 47
+    },
+    {
+      "id": 176,
+      "name": "Sunglasses & Frames Classic #176",
+      "price": 3304,
+      "rating": 4.9,
+      "category": "Men",
+      "subcategory": "Sunglasses & Frames",
+      "type": "Sunglasses & Frames",
+      "image": "https://example.com/products/176.jpg",
+      "brand": "Nike",
+      "sizes": [
+        "M",
+        "S",
+        "XL",
+        "XXL"
+      ],
+      "stock": 15
+    },
+    {
+      "id": 177,
+      "name": "Sunglasses & Frames Cool #177",
+      "price": 2950,
+      "rating": 3.2,
+      "category": "Men",
+      "subcategory": "Sunglasses & Frames",
+      "type": "Sunglasses & Frames",
+      "image": "https://example.com/products/177.jpg",
+      "brand": "Roadster",
+      "sizes": [
+        "XL",
+        "S",
+        "L",
+        "M"
+      ],
+      "stock": 75
+    },
+    {
+      "id": 178,
+      "name": "Sunglasses & Frames Stylish #178",
+      "price": 1148,
+      "rating": 4.8,
+      "category": "Men",
+      "subcategory": "Sunglasses & Frames",
+      "type": "Sunglasses & Frames",
+      "image": "https://example.com/products/178.jpg",
+      "brand": "Roadster",
+      "sizes": [
+        "S",
+        "M"
+      ],
+      "stock": 26
+    },
+    {
+      "id": 179,
+      "name": "Sunglasses & Frames Stylish #179",
+      "price": 3646,
+      "rating": 4.7,
+      "category": "Men",
+      "subcategory": "Sunglasses & Frames",
+      "type": "Sunglasses & Frames",
+      "image": "https://example.com/products/179.jpg",
+      "brand": "Roadster",
+      "sizes": [
+        "XL",
+        "M",
+        "S",
+        "XXL",
+        "L"
+      ],
+      "stock": 37
+    },
+    {
+      "id": 180,
+      "name": "Sunglasses & Frames Trendy #180",
+      "price": 4667,
+      "rating": 4.7,
+      "category": "Men",
+      "subcategory": "Sunglasses & Frames",
+      "type": "Sunglasses & Frames",
+      "image": "https://example.com/products/180.jpg",
+      "brand": "Levis",
+      "sizes": [
+        "S",
+        "XXL",
+        "L",
+        "M"
+      ],
+      "stock": 48
+    },
+    {
+      "id": 181,
+      "name": "Sunglasses & Frames Trendy #181",
+      "price": 1361,
+      "rating": 3.8,
+      "category": "Men",
+      "subcategory": "Sunglasses & Frames",
+      "type": "Sunglasses & Frames",
+      "image": "https://example.com/products/181.jpg",
+      "brand": "Adidas",
+      "sizes": [
+        "XXL",
+        "XL",
+        "S"
+      ],
+      "stock": 85
+    },
+    {
+      "id": 182,
+      "name": "Watches Trendy #182",
+      "price": 3310,
+      "rating": 4.4,
+      "category": "Men",
+      "subcategory": "Watches",
+      "type": "Watches",
+      "image": "https://example.com/products/182.jpg",
+      "brand": "Nike",
+      "sizes": [
+        "XXL",
+        "XL",
+        "S",
+        "L",
+        "M"
+      ],
+      "stock": 25
+    },
+    {
+      "id": 183,
+      "name": "Watches Trendy #183",
+      "price": 2133,
+      "rating": 3.3,
+      "category": "Men",
+      "subcategory": "Watches",
+      "type": "Watches",
+      "image": "https://example.com/products/183.jpg",
+      "brand": "HRX",
+      "sizes": [
+        "M",
+        "XXL"
+      ],
+      "stock": 36
+    },
+    {
+      "id": 184,
+      "name": "Watches Stylish #184",
+      "price": 4913,
+      "rating": 4.2,
+      "category": "Men",
+      "subcategory": "Watches",
+      "type": "Watches",
+      "image": "https://example.com/products/184.jpg",
+      "brand": "H&M",
+      "sizes": [
+        "S",
+        "XL",
+        "L",
+        "XXL"
+      ],
+      "stock": 98
+    },
+    {
+      "id": 185,
+      "name": "Watches Stylish #185",
+      "price": 4468,
+      "rating": 4.1,
+      "category": "Men",
+      "subcategory": "Watches",
+      "type": "Watches",
+      "image": "https://example.com/products/185.jpg",
+      "brand": "Puma",
+      "sizes": [
+        "XL",
+        "M",
+        "XXL",
+        "L"
+      ],
+      "stock": 50
+    },
+    {
+      "id": 186,
+      "name": "Watches Stylish #186",
+      "price": 3650,
+      "rating": 4.1,
+      "category": "Men",
+      "subcategory": "Watches",
+      "type": "Watches",
+      "image": "https://example.com/products/186.jpg",
+      "brand": "Roadster",
+      "sizes": [
+        "XL",
+        "S",
+        "M"
+      ],
+      "stock": 95
+    },
+    {
+      "id": 187,
+      "name": "Watches Stylish #187",
+      "price": 2751,
+      "rating": 5.0,
+      "category": "Men",
+      "subcategory": "Watches",
+      "type": "Watches",
+      "image": "https://example.com/products/187.jpg",
+      "brand": "Adidas",
+      "sizes": [
+        "L",
+        "S"
+      ],
+      "stock": 26
+    },
+    {
+      "id": 188,
+      "name": "Sports Shoes Trendy #188",
+      "price": 2544,
+      "rating": 4.7,
+      "category": "Men",
+      "subcategory": "Sports & Active Wear",
+      "type": "Sports Shoes",
+      "image": "https://example.com/products/188.jpg",
+      "brand": "HRX",
+      "sizes": [
+        "L",
+        "XXL",
+        "XL",
+        "S"
+      ],
+      "stock": 22
+    },
+    {
+      "id": 189,
+      "name": "Sports Shoes Classic #189",
+      "price": 4236,
+      "rating": 4.0,
+      "category": "Men",
+      "subcategory": "Sports & Active Wear",
+      "type": "Sports Shoes",
+      "image": "https://example.com/products/189.jpg",
+      "brand": "Puma",
+      "sizes": [
+        "XXL",
+        "L",
+        "M",
+        "S"
+      ],
+      "stock": 59
+    },
+    {
+      "id": 190,
+      "name": "Sports Shoes Classic #190",
+      "price": 3479,
+      "rating": 4.0,
+      "category": "Men",
+      "subcategory": "Sports & Active Wear",
+      "type": "Sports Shoes",
+      "image": "https://example.com/products/190.jpg",
+      "brand": "Adidas",
+      "sizes": [
+        "M",
+        "S",
+        "L",
+        "XL",
+        "XXL"
+      ],
+      "stock": 22
+    },
+    {
+    "id": 1001,
+    "name": "Floral Print Saree #1001",
+    "price": 2599,
+    "rating": 4.2,
+    "category": "Women",
+    "subcategory": "Indian & Fusion Wear",
+    "type": "Sarees",
+    "image": "https://example.com/products/1001.jpg",
+    "brand": "FabIndia",
+    "sizes": ["Free Size"],
+    "stock": 15
+  },
+  {
+    "id": 1002,
+    "name": "Embroidered Kurta Set #1002",
+    "price": 3499,
+    "rating": 4.5,
+    "category": "Women",
+    "subcategory": "Indian & Fusion Wear",
+    "type": "Kurta Sets",
+    "image": "https://example.com/products/1002.jpg",
+    "brand": "W for Woman",
+    "sizes": ["S", "M", "L"],
+    "stock": 30
+  },
+  {
+    "id": 1003,
+    "name": "Printed Georgette Kurti #1003",
+    "price": 1899,
+    "rating": 4.1,
+    "category": "Women",
+    "subcategory": "Indian & Fusion Wear",
+    "type": "Kurtis, Tunics & Tops",
+    "image": "https://example.com/products/1003.jpg",
+    "brand": "Biba",
+    "sizes": ["M", "L", "XL"],
+    "stock": 20
+  },
+  {
+    "id": 1004,
+    "name": "Silk Lehenga Choli #1004",
+    "price": 7999,
+    "rating": 4.8,
+    "category": "Women",
+    "subcategory": "Indian & Fusion Wear",
+    "type": "Lehenga Cholis",
+    "image": "https://example.com/products/1004.jpg",
+    "brand": "Manyavar",
+    "sizes": ["S", "M", "L"],
+    "stock": 8
+  },
+  {
+    "id": 1005,
+    "name": "Flared Georgette Dress #1005",
+    "price": 2299,
+    "rating": 4.3,
+    "category": "Women",
+    "subcategory": "Western Wear",
+    "type": "Dresses",
+    "image": "https://example.com/products/1005.jpg",
+    "brand": "Forever 21",
+    "sizes": ["S", "M", "L", "XL"],
+    "stock": 25
+  },
+  {
+    "id": 1006,
+    "name": "High-Rise Denim Jeans #1006",
+    "price": 1999,
+    "rating": 4.0,
+    "category": "Women",
+    "subcategory": "Western Wear",
+    "type": "Jeans",
+    "image": "https://example.com/products/1006.jpg",
+    "brand": "Lee",
+    "sizes": ["S", "M", "L", "XL"],
+    "stock": 22
+  },
+  {
+    "id": 1007,
+    "name": "Casual Sneakers #1007",
+    "price": 2999,
+    "rating": 4.4,
+    "category": "Women",
+    "subcategory": "Footwear",
+    "type": "Casual Shoes",
+    "image": "https://example.com/products/1007.jpg",
+    "brand": "Adidas",
+    "sizes": ["6", "7", "8"],
+    "stock": 40
+  },
+  {
+    "id": 1008,
+    "name": "Strappy Heels #1008",
+    "price": 2599,
+    "rating": 4.5,
+    "category": "Women",
+    "subcategory": "Footwear",
+    "type": "Heels",
+    "image": "https://example.com/products/1008.jpg",
+    "brand": "Zara",
+    "sizes": ["6", "7", "8", "9"],
+    "stock": 18
+  },
+  {
+    "id": 1009,
+    "name": "Cotton Camisole Set #1009",
+    "price": 1199,
+    "rating": 4.1,
+    "category": "Women",
+    "subcategory": "Lingerie & Sleepwear",
+    "type": "Camisoles & Thermals",
+    "image": "https://example.com/products/1009.jpg",
+    "brand": "Hanes",
+    "sizes": ["S", "M", "L"],
+    "stock": 50
+  },
+  {
+    "id": 1010,
+    "name": "Lace Trim Bra #1010",
+    "price": 899,
+    "rating": 4.2,
+    "category": "Women",
+    "subcategory": "Lingerie & Sleepwear",
+    "type": "Bra",
+    "image": "https://example.com/products/1010.jpg",
+    "brand": "Victoria's Secret",
+    "sizes": ["32B", "34B", "36B"],
+    "stock": 35
+  },
+  {
+    "id": 1011,
+    "name": "Overnight Skincare Kit #1011",
+    "price": 1599,
+    "rating": 4.7,
+    "category": "Women",
+    "subcategory": "Beauty & Personal Care",
+    "type": "Skincare",
+    "image": "https://example.com/products/1011.jpg",
+    "brand": "Lakme",
+    "sizes": [],
+    "stock": 60
+  },
+  {
+    "id": 1012,
+    "name": "Matte Lipstick #1012",
+    "price": 499,
+    "rating": 4.3,
+    "category": "Women",
+    "subcategory": "Beauty & Personal Care",
+    "type": "Lipsticks",
+    "image": "https://example.com/products/1012.jpg",
+    "brand": "Maybelline",
+    "sizes": [],
+    "stock": 100
+  },
+  {
+    "id": 1013,
+    "name": "Rose Gold Necklace #1013",
+    "price": 3499,
+    "rating": 4.6,
+    "category": "Women",
+    "subcategory": "Jewellery",
+    "type": "Necklaces",
+    "image": "https://example.com/products/1013.jpg",
+    "brand": "Senco",
+    "sizes": [],
+    "stock": 12
+  },
+  {
+    "id": 1014,
+    "name": "Silver Hoops Earrings #1014",
+    "price": 1299,
+    "rating": 4.4,
+    "category": "Women",
+    "subcategory": "Jewellery",
+    "type": "Earrings",
+    "image": "https://example.com/products/1014.jpg",
+    "brand": "Tanishq",
+    "sizes": [],
+    "stock": 25
+  },
+  {
+    "id": 1015,
+    "name": "Leather Tote Handbag #1015",
+    "price": 4999,
+    "rating": 4.8,
+    "category": "Women",
+    "subcategory": "Bags & Backpacks",
+    "type": "Handbags",
+    "image": "https://example.com/products/1015.jpg",
+    "brand": "Baggit",
+    "sizes": [],
+    "stock": 20
+  },
+  {
+    "id": 1016,
+    "name": "Canvas Backpack #1016",
+    "price": 3599,
+    "rating": 4.5,
+    "category": "Women",
+    "subcategory": "Bags & Backpacks",
+    "type": "Backpacks",
+    "image": "https://example.com/products/1016.jpg",
+    "brand": "American Tourister",
+    "sizes": [],
+    "stock": 30
+  },
+  {
+    "id": 1017,
+    "name": "Smart Fitness Band #1017",
+    "price": 2999,
+    "rating": 4.3,
+    "category": "Women",
+    "subcategory": "Watches & Wearables",
+    "type": "Fitness Bands",
+    "image": "https://example.com/products/1017.jpg",
+    "brand": "Mi",
+    "sizes": [],
+    "stock": 45
+  },
+  {
+    "id": 1018,
+    "name": "Gold-Plated Watch #1018",
+    "price": 6999,
+    "rating": 4.7,
+    "category": "Women",
+    "subcategory": "Watches & Wearables",
+    "type": "Watches",
+    "image": "https://example.com/products/1018.jpg",
+    "brand": "Titan",
+    "sizes": [],
+    "stock": 18
+  },
+  {
+    "id": 1019,
+    "name": "Smart Organizer Handbag #1019",
+    "price": 3999,
+    "rating": 4.6,
+    "category": "Women",
+    "subcategory": "Bags & Backpacks",
+    "type": "Handbags",
+    "image": "https://example.com/products/1019.jpg",
+    "brand": "Michael Kors",
+    "sizes": [],
+    "stock": 10
+  },
+  {
+    "id": 1020,
+    "name": "Ruffled Mini Dress #1020",
+    "price": 2599,
+    "rating": 4.5,
+    "category": "Women",
+    "subcategory": "Western Wear",
+    "type": "Dresses",
+    "image": "https://example.com/products/1020.jpg",
+    "brand": "H&M",
+    "sizes": ["S", "M", "L"],
+    "stock": 35
+  },
+  {
+    "id": 1021,
+    "name": "Lace Trim Camisole #1021",
+    "price": 1299,
+    "rating": 4.2,
+    "category": "Women",
+    "subcategory": "Western Wear",
+    "type": "Tops",
+    "image": "https://example.com/products/1021.jpg",
+    "brand": "Zara",
+    "sizes": ["S", "M", "L", "XL"],
+    "stock": 40
+  },
+  {
+    "id": 1022,
+    "name": "Pleated Midi Skirt #1022",
+    "price": 2199,
+    "rating": 4.4,
+    "category": "Women",
+    "subcategory": "Western Wear",
+    "type": "Shorts & Skirts",
+    "image": "https://example.com/products/1022.jpg",
+    "brand": "Forever 21",
+    "sizes": ["S", "M", "L"],
+    "stock": 27
+  },
+  {
+    "id": 1023,
+    "name": "Embroidered Shrug #1023",
+    "price": 1899,
+    "rating": 4.1,
+    "category": "Women",
+    "subcategory": "Western Wear",
+    "type": "Shrugs",
+    "image": "https://example.com/products/1023.jpg",
+    "brand": "Global Desi",
+    "sizes": ["S", "M", "L"],
+    "stock": 22
+  },
+  {
+    "id": 1024,
+    "name": "Regular Fit Denim Jacket #1024",
+    "price": 2999,
+    "rating": 4.3,
+    "category": "Women",
+    "subcategory": "Western Wear",
+    "type": "Jackets & Coats",
+    "image": "https://example.com/products/1024.jpg",
+    "brand": "Levi's",
+    "sizes": ["S", "M", "L", "XL"],
+    "stock": 19
+  },
+  {
+    "id": 1025,
+    "name": "Floral Bootcut Jeans #1025",
+    "price": 1999,
+    "rating": 4.0,
+    "category": "Women",
+    "subcategory": "Western Wear",
+    "type": "Jeans",
+    "image": "https://example.com/products/1025.jpg",
+    "brand": "Wrangler",
+    "sizes": ["S", "M", "L"],
+    "stock": 23
+  },
+  {
+    "id": 1026,
+    "name": "Floor-Length Evening Gown #1026",
+    "price": 4999,
+    "rating": 4.7,
+    "category": "Women",
+    "subcategory": "Western Wear",
+    "type": "Dresses",
+    "image": "https://example.com/products/1026.jpg",
+    "brand": "House of CB",
+    "sizes": ["S", "M", "L"],
+    "stock": 7
+  },
+  {
+    "id": 1027,
+    "name": "Embellished Clutch #1027",
+    "price": 1799,
+    "rating": 4.4,
+    "category": "Women",
+    "subcategory": "Bags & Backpacks",
+    "type": "Clutches",
+    "image": "https://example.com/products/1027.jpg",
+    "brand": "Baggit",
+    "sizes": [],
+    "stock": 30
+  },
+  {
+    "id": 1028,
+    "name": "Gold-Toned Bracelet #1028",
+    "price": 1499,
+    "rating": 4.3,
+    "category": "Women",
+    "subcategory": "Jewellery",
+    "type": "Bracelets & Bangles",
+    "image": "https://example.com/products/1028.jpg",
+    "brand": "Amrapali",
+    "sizes": [],
+    "stock": 25
+  },
+  {
+    "id": 1029,
+    "name": "Silk Dupatta #1029",
+    "price": 799,
+    "rating": 4.5,
+    "category": "Women",
+    "subcategory": "Indian & Fusion Wear",
+    "type": "Dupattas & Shawls",
+    "image": "https://example.com/products/1029.jpg",
+    "brand": "Manyavar",
+    "sizes": ["Free Size"],
+    "stock": 40
+  },
+  {
+    "id": 1030,
+    "name": "Netted Maxi Dress #1030",
+    "price": 2799,
+    "rating": 4.4,
+    "category": "Women",
+    "subcategory": "Western Wear",
+    "type": "Dresses",
+    "image": "https://example.com/products/1030.jpg",
+    "brand": "H&M",
+    "sizes": ["S", "M", "L", "XL"],
+    "stock": 33
+  },
+  {
+    "id": 1031,
+    "name": "Designer Blazer #1031",
+    "price": 3999,
+    "rating": 4.6,
+    "category": "Women",
+    "subcategory": "Western Wear",
+    "type": "Blazers & Waistcoats",
+    "image": "https://example.com/products/1031.jpg",
+    "brand": "Zara",
+    "sizes": ["S", "M", "L"],
+    "stock": 12
+  },
+  {
+    "id": 1032,
+    "name": "Designer Casual Watch #1032",
+    "price": 5999,
+    "rating": 4.7,
+    "category": "Women",
+    "subcategory": "Watches & Wearables",
+    "type": "Watches",
+    "image": "https://example.com/products/1032.jpg",
+    "brand": "Fossil",
+    "sizes": [],
+    "stock": 14
+  },
+  {
+    "id": 1033,
+    "name": "Floral Ring Set (3 pcs) #1033",
+    "price": 1299,
+    "rating": 4.2,
+    "category": "Women",
+    "subcategory": "Jewellery",
+    "type": "Rings & Wristwear",
+    "image": "https://example.com/products/1033.jpg",
+    "brand": "Accessorize",
+    "sizes": [],
+    "stock": 45
+  },
+  {
+    "id": 1034,
+    "name": "Geometric Print Backpack #1034",
+    "price": 3299,
+    "rating": 4.3,
+    "category": "Women",
+    "subcategory": "Bags & Backpacks",
+    "type": "Backpacks",
+    "image": "https://example.com/products/1034.jpg",
+    "brand": "Wildcraft",
+    "sizes": [],
+    "stock": 20
+  },
+  {
+    "id": 1035,
+    "name": "Makeup Essentials Kit #1035",
+    "price": 2499,
+    "rating": 4.5,
+    "category": "Women",
+    "subcategory": "Beauty & Personal Care",
+    "type": "Makeup",
+    "image": "https://example.com/products/1035.jpg",
+    "brand": "Lakme",
+    "sizes": [],
+    "stock": 60
+  },
+  {
+    "id": 1036,
+    "name": "Gold-Plated Earring Set #1036",
+    "price": 1999,
+    "rating": 4.4,
+    "category": "Women",
+    "subcategory": "Jewellery",
+    "type": "Earrings",
+    "image": "https://example.com/products/1036.jpg",
+    "brand": "Tanishq",
+    "sizes": [],
+    "stock": 30
+  },
+  {
+    "id": 1037,
+    "name": "Perfume Spray #1037",
+    "price": 1499,
+    "rating": 4.6,
+    "category": "Women",
+    "subcategory": "Beauty & Personal Care",
+    "type": "Fragrances",
+    "image": "https://example.com/products/1037.jpg",
+    "brand": "Dior",
+    "sizes": [],
+    "stock": 22
+  },
+  {
+    "id": 1038,
+    "name": "Thermal Lounge Pants #1038",
+    "price": 1599,
+    "rating": 4.1,
+    "category": "Women",
+    "subcategory": "Lingerie & Sleepwear",
+    "type": "Sleepwear & Loungewear",
+    "image": "https://example.com/products/1038.jpg",
+    "brand": "Jockey",
+    "sizes": ["S", "M", "L", "XL"],
+    "stock": 30
+  },
+  {
+    "id": 1039,
+    "name": "Silk Camisole #1039",
+    "price": 999,
+    "rating": 4.2,
+    "category": "Women",
+    "subcategory": "Lingerie & Sleepwear",
+    "type": "Camisoles & Thermals",
+    "image": "https://example.com/products/1039.jpg",
+    "brand": "Victoria's Secret",
+    "sizes": ["S", "M"],
+    "stock": 25
+  },
+  {
+    "id": 1040,
+    "name": "Embroidered Trousers #1040",
+    "price": 2399,
+    "rating": 4.3,
+    "category": "Women",
+    "subcategory": "Western Wear",
+    "type": "Trousers & Capris"
+  },
+  {
+    "id": 2000,
+    "name": "Boys Casual T‑Shirt #2000",
+    "price": 799,
+    "rating": 4.2,
+    "category": "Kids",
+    "subcategory": "Boys Clothing",
+    "type": "T‑Shirts",
+    "image": "https://example.com/products/2000.jpg",
+    "brand": "Babyhug",
+    "sizes": ["3‑4Y", "5‑6Y"],
+    "stock": 50
+  },
+  {
+    "id": 2001,
+    "name": "Boys Denim Shirt #2001",
+    "price": 999,
+    "rating": 4.1,
+    "category": "Kids",
+    "subcategory": "Boys Clothing",
+    "type": "Shirts",
+    "image": "https://example.com/products/2001.jpg",
+    "brand": "Gini & Jony",
+    "sizes": ["5‑6Y", "7‑8Y"],
+    "stock": 40
+  },
+  {
+    "id": 2002,
+    "name": "Girls Floral Dress #2002",
+    "price": 1299,
+    "rating": 4.3,
+    "category": "Kids",
+    "subcategory": "Girls Clothing",
+    "type": "Dresses",
+    "image": "https://example.com/products/2002.jpg",
+    "brand": "Cutecumber",
+    "sizes": ["3‑4Y", "5‑6Y"],
+    "stock": 35
+  },
+  {
+    "id": 2003,
+    "name": "Girls Top & Skirt Set #2003",
+    "price": 1199,
+    "rating": 4.2,
+    "category": "Kids",
+    "subcategory": "Girls Clothing",
+    "type": "Tops",
+    "image": "https://example.com/products/2003.jpg",
+    "brand": "Lilliput",
+    "sizes": ["5‑6Y", "7‑8Y"],
+    "stock": 40
+  },
+  {
+    "id": 2004,
+    "name": "Boys Shorts #2004",
+    "price": 699,
+    "rating": 4.0,
+    "category": "Kids",
+    "subcategory": "Boys Clothing",
+    "type": "Shorts",
+    "image": "https://example.com/products/2004.jpg",
+    "brand": "YK",
+    "sizes": ["3‑4Y", "5‑6Y"],
+    "stock": 60
+  },
+  {
+    "id": 2005,
+    "name": "Girls Jeans #2005",
+    "price": 1499,
+    "rating": 4.4,
+    "category": "Kids",
+    "subcategory": "Girls Clothing",
+    "type": "Jeans",
+    "image": "https://example.com/products/2005.jpg",
+    "brand": "Miss & Chief",
+    "sizes": ["5‑6Y", "7‑8Y"],
+    "stock": 30
+  },
+  {
+    "id": 2006,
+    "name": "Boys Sports Shoes #2006",
+    "price": 1999,
+    "rating": 4.3,
+    "category": "Kids",
+    "subcategory": "Footwear",
+    "type": "Sports Shoes",
+    "image": "https://example.com/products/2006.jpg",
+    "brand": "Fila",
+    "sizes": ["1", "2", "3"],
+    "stock": 45
+  },
+  {
+    "id": 2007,
+    "name": "Girls Sandals #2007",
+    "price": 1299,
+    "rating": 4.5,
+    "category": "Kids",
+    "subcategory": "Footwear",
+    "type": "Sandals",
+    "image": "https://example.com/products/2007.jpg",
+    "brand": "Nike",
+    "sizes": ["1", "2", "3"],
+    "stock": 50
+  },
+  {
+    "id": 2008,
+    "name": "Action Figure Toy #2008",
+    "price": 599,
+    "rating": 4.1,
+    "category": "Kids",
+    "subcategory": "Toys & Games",
+    "type": "Action Figures",
+    "image": "https://example.com/products/2008.jpg",
+    "brand": "Funskool",
+    "sizes": [],
+    "stock": 80
+  },
+  {
+    "id": 2009,
+    "name": "Soft Plush Toy #2009",
+    "price": 799,
+    "rating": 4.6,
+    "category": "Kids",
+    "subcategory": "Toys & Games",
+    "type": "Soft Toys",
+    "image": "https://example.com/products/2009.jpg",
+    "brand": "Chicco",
+    "sizes": [],
+    "stock": 100
+  },
+  {
+    "id": 2010,
+    "name": "Learning Blocks Set #2010",
+    "price": 899,
+    "rating": 4.4,
+    "category": "Kids",
+    "subcategory": "Toys & Games",
+    "type": "Learning Toys",
+    "image": "https://example.com/products/2010.jpg",
+    "brand": "Lego",
+    "sizes": [],
+    "stock": 40
+  },
+  {
+    "id": 2011,
+    "name": "Infant Bodysuit (3‑6M) #2011",
+    "price": 499,
+    "rating": 4.3,
+    "category": "Kids",
+    "subcategory": "Infants",
+    "type": "Bodysuits",
+    "image": "https://example.com/products/2011.jpg",
+    "brand": "Mothercare",
+    "sizes": ["3‑6M"],
+    "stock": 60
+  },
+  {
+    "id": 2012,
+    "name": "Infant Romper (6‑9M) #2012",
+    "price": 599,
+    "rating": 4.2,
+    "category": "Kids",
+    "subcategory": "Infants",
+    "type": "Rompers",
+    "image": "https://example.com/products/2012.jpg",
+    "brand": "Petit Bateau",
+    "sizes": ["6‑9M"],
+    "stock": 55
+  },
+  {
+    "id": 2013,
+    "name": "Girls Leggings #2013",
+    "price": 799,
+    "rating": 4.1,
+    "category": "Kids",
+    "subcategory": "Girls Clothing",
+    "type": "Leggings",
+    "image": "https://example.com/products/2013.jpg",
+    "brand": "Hans",
+    "sizes": ["3‑4Y", "5‑6Y"],
+    "stock": 45
+  },
+  {
+    "id": 2014,
+    "name": "Boys Track Pants #2014",
+    "price": 899,
+    "rating": 4.0,
+    "category": "Kids",
+    "subcategory": "Boys Clothing",
+    "type": "Track Pants",
+    "image": "https://example.com/products/2014.jpg",
+    "brand": "Nike",
+    "sizes": ["5‑6Y", "7‑8Y"],
+    "stock": 40
+  },
+  {
+    "id": 2015,
+    "name": "Girls Casual Sneakers #2015",
+    "price": 1499,
+    "rating": 4.2,
+    "category": "Kids",
+    "subcategory": "Footwear",
+    "type": "Casual Shoes",
+    "image": "https://example.com/products/2015.jpg",
+    "brand": "Adidas",
+    "sizes": ["1", "2"],
+    "stock": 55
+  },
+  {
+    "id": 2016,
+    "name": "Educational Puzzle Toy #2016",
+    "price": 699,
+    "rating": 4.5,
+    "category": "Kids",
+    "subcategory": "Toys & Games",
+    "type": "Activity Toys",
+    "image": "https://example.com/products/2016.jpg",
+    "brand": "Funskool",
+    "sizes": [],
+    "stock": 70
+  },
+  {
+    "id": 2017,
+    "name": "Girls Party Dress #2017",
+    "price": 1599,
+    "rating": 4.4,
+    "category": "Kids",
+  "subcategory": "Girls Clothing",
+  "type": "Dresses",
+  "image": "https://example.com/products/2017.jpg",
+  "brand": "Babyhug",
+  "sizes": ["5‑6Y", "7‑8Y"],
+  "stock": 30
+  },
+  {
+    "id": 2018,
+    "name": "Boys Formal Shirt #2018",
+    "price": 1199,
+    "rating": 4.3,
+    "category": "Kids",
+    "subcategory": "Boys Clothing",
+    "type": "Shirts",
+    "image": "https://example.com/products/2018.jpg",
+    "brand": "H&M",
+    "sizes": ["5‑6Y", "7‑8Y"],
+    "stock": 30
+  },
+  {
+    "id": 2019,
+    "name": "Infant Sleepwear Set #2019",
+    "price": 699,
+    "rating": 4.2,
+    "category": "Kids",
+    "subcategory": "Infants",
+    "type": "Sleepwear",
+    "image": "https://example.com/products/2019.jpg",
+    "brand": "Gerber",
+    "sizes": ["3‑6M"],
+    "stock": 45
+  },
+  {
+    "id": 2020,
+    "name": "Girls Hair Accessory Set #2020",
+    "price": 499,
+    "rating": 4.3,
+    "category": "Kids",
+    "subcategory": "Girls Clothing",
+    "type": "Accessories",
+    "image": "https://example.com/products/2020.jpg",
+    "brand": "Chicco",
+    "sizes": [],
+    "stock": 75
+  },
+  {
+    "id": 2021,
+    "name": "Boys Belt #2021",
+    "price": 399,
+    "rating": 4.0,
+    "category": "Kids",
+    "subcategory": "Boys Clothing",
+    "type": "Fashion Accessories",
+    "image": "https://example.com/products/2021.jpg",
+    "brand": "Mothercare",
+    "sizes": [],
+    "stock": 40
+  },
+  {
+    "id": 2022,
+    "name": "Girls Platform Sandals #2022",
+    "price": 1399,
+    "rating": 4.2,
+    "category": "Kids",
+    "subcategory": "Footwear",
+    "type": "Sandals",
+    "image": "https://example.com/products/2022.jpg",
+    "brand": "Zara",
+    "sizes": ["1", "2"],
+    "stock": 35
+  },
+  {
+    "id": 2023,
+    "name": "Kids Sports Cap #2023",
+    "price": 299,
+    "rating": 4.3,
+    "category": "Kids",
+    "subcategory": "Fashion Accessories",
+    "type": "Caps & Hats",
+    "image": "https://example.com/products/2023.jpg",
+    "brand": "Puma",
+    "sizes": [],
+    "stock": 60
+  },
+  {
+    "id": 2024,
+    "name": "Girls Backpack #2024",
+    "price": 1499,
+    "rating": 4.5,
+    "category": "Kids",
+    "subcategory": "Toys & Games",
+    "type": "Backpacks",
+    "image": "https://example.com/products/2024.jpg",
+    "brand": "Wildcraft",
+    "sizes": [],
+    "stock": 50
+  },
+  {
+    "id": 2025,
+    "name": "Learning Tablet Toy #2025",
+    "price": 2299,
+    "rating": 4.4,
+    "category": "Kids",
+    "subcategory": "Toys & Games",
+    "type": "Learning Toys",
+    "image": "https://example.com/products/2025.jpg",
+    "brand": "LeapFrog",
+    "sizes": [],
+    "stock": 30
+  },
+  {
+    "id": 2026,
+    "name": "Infant T‑Shirt & Shorts Set #2026",
+    "price": 599,
+    "rating": 4.1,
+    "category": "Kids",
+    "subcategory": "Infants",
+    "type": "T‑Shirts & Shorts",
+    "image": "https://example.com/products/2026.jpg",
+    "brand": "FirstCry",
+    "sizes": ["3‑6M"],
+    "stock": 55
+  },
+  {
+    "id": 2027,
+    "name": "Girls Denim Jacket #2027",
+    "price": 1799,
+    "rating": 4.3,
+    "category": "Kids",
+    "subcategory": "Girls Clothing",
+    "type": "Jackets & Coats",
+    "image": "https://example.com/products/2027.jpg",
+    "brand": "H&M",
+    "sizes": ["5‑6Y", "7‑8Y"],
+    "stock": 22
+  },
+  {
+    "id": 2028,
+    "name": "Boys Cap & Shorts Combo #2028",
+    "price": 899,
+    "rating": 4.2,
+    "category": "Kids",
+    "subcategory": "Boys Clothing",
+    "type": "Sets",
+    "image": "https://example.com/products/2028.jpg",
+    "brand": "Lilliput",
+    "sizes": ["5‑6Y"],
+    "stock": 35
+  },
+  {
+    "id": 2029,
+    "name": "Girls Sports Sneakers #2029",
+    "price": 1499,
+    "rating": 4.4,
+    "category": "Kids",
+    "subcategory": "Footwear",
+    "type": "Sports Shoes",
+    "image": "https://example.com/products/2029.jpg",
+    "brand": "Skechers",
+    "sizes": ["2", "3"],
+    "stock": 40
+  },
+  {
+    "id": 2030,
+    "name": "Stacking Toy Set #2030",
+    "price": 499,
+    "rating": 4.2,
+    "category": "Kids",
+    "subcategory": "Toys & Games",
+    "type": "Activity Toys",
+    "image": "https://example.com/products/2030.jpg",
+    "brand": "Channapatna",
+    "sizes": [],
+    "stock": 60
+  },
+  {
+    "id": 2031,
+    "name": "Girls Kurta Set #2031",
+    "price": 1399,
+    "rating": 4.3,
+    "category": "Kids",
+    "subcategory": "Girls Clothing",
+    "type": "Kurti Sets",
+    "image": "https://example.com/products/2031.jpg",
+    "brand": "Babyhug",
+    "sizes": ["3‑4Y", "5‑6Y"],
+    "stock": 30
+  },
+  {
+    "id": 2032,
+    "name": "Boys Track Shirt #2032",
+    "price": 799,
+    "rating": 4.0,
+    "category": "Kids",
+    "subcategory": "Boys Clothing",
+    "type": "T‑Shirts",
+    "image": "https://example.com/products/2032.jpg",
+    "brand": "Nike",
+    "sizes": ["5‑6Y", "7‑8Y"],
+    "stock": 45
+  },
+  {
+    "id": 2033,
+    "name": "Girls Fancy Hairband #2033",
+    "price": 299,
+    "rating": 4.1,
+    "category": "Kids",
+    "subcategory": "Girls Clothing",
+    "type": "Accessories",
+    "image": "https://example.com/products/2033.jpg",
+    "brand": "Chicco",
+    "sizes": [],
+    "stock": 75
+  },
+  {
+    "id": 2034,
+    "name": "Kids Solar Robot Toy #2034",
+    "price": 1199,
+    "rating": 4.3,
+    "category": "Kids",
+    "subcategory": "Toys & Games",
+    "type": "Activity Toys",
+    "image": "https://example.com/products/2034.jpg",
+    "brand": "EduFun",
+    "sizes": [],
+    "stock": 30
+  },
+  {
+    "id": 2035,
+    "name": "Infant Bodysuit (6‑9M) #2035",
+    "price": 549,
+    "rating": 4.2,
+    "category": "Kids",
+    "subcategory": "Infants",
+    "type": "Bodysuits",
+    "image": "https://example.com/products/2035.jpg",
+    "brand": "Mothercare",
+    "sizes": ["6‑9M"],
+    "stock": 55
+  },
+  {
+    "id": 2036,
+    "name": "Girls Dance Dress #2036",
+    "price": 1699,
+    "rating": 4.4,
+    "category": "Kids",
+    "subcategory": "Girls Clothing",
+    "type": "Dresses",
+    "image": "https://example.com/products/2036.jpg",
+    "brand": "Hopscotch",
+    "sizes": ["5‑6Y", "7‑8Y"],
+    "stock": 20
+  },
+  {
+    "id": 2037,
+    "name": "Boys Windcheater Jacket #2037",
+    "price": 2499,
+    "rating": 4.3,
+    "category": "Kids",
+    "subcategory": "Boys Clothing",
+    "type": "Jackets & Coats",
+    "image": "https://example.com/products/2037.jpg",
+    "brand": "Levi's",
+    "sizes": ["5‑6Y", "7‑8Y"],
+    "stock": 18
+  },
+  {
+    "id": 2038,
+    "name": "Girls Rain Boots #2038",
+    "price": 1399,
+    "rating": 4.2,
+    "category": "Kids",
+    "subcategory": "Footwear",
+    "type": "Boots",
+    "image": "https://example.com/products/2038.jpg",
+    "brand": "Crocs",
+    "sizes": ["1", "2"],
+    "stock": 30
+  },
+  {
+    "id": 2039,
+    "name": "Kids Sunglasses #2039",
+    "price": 499,
+    "rating": 4.3,
+    "category": "Kids",
+    "subcategory": "Fashion Accessories",
+    "type": "Sunglasses & Frames",
+    "image": "https://example.com/products/2039.jpg",
+    "brand": "Ray‑Ban",
+    "sizes": [],
+    "stock": 50
+  },
+  {
+    "id": 2040,
+    "name": "Girls Smart Watch #2040",
+    "price": 2199,
+    "rating": 4.5,
+    "category": "Kids",
+    "subcategory": "Fashion Accessories",
+    "type": "Smart Watches",
+    "image": "https://example.com/products/2040.jpg",
+    "brand": "Fastrack",
+    "sizes": [],
+    "stock": 25
+  },
+  {
+    "id": 2041,
+    "name": "Boys Graphic Tee #2041",
+    "price": 899,
+    "rating": 4.1,
+    "category": "Kids",
+    "subcategory": "Boys Clothing",
+    "type": "T‑Shirts",
+    "image": "https://example.com/products/2041.jpg",
+    "brand": "US Polo",
+    "sizes": ["5‑6Y", "7‑8Y"],
+    "stock": 40
+  },
+  {
+    "id": 2042,
+    "name": "Girls Skater Skirt #2042",
+    "price": 999,
+    "rating": 4.3,
+    "category": "Kids",
+    "subcategory": "Girls Clothing",
+    "type": "Shorts & Skirts",
+    "image": "https://example.com/products/2042.jpg",
+    "brand": "Mast & Harbour",
+    "sizes": ["5‑6Y", "7‑8Y"],
+    "stock": 35
+  },
+  {
+    "id": 2043,
+    "name": "Kids Puzzle Cube #2043",
+    "price": 499,
+    "rating": 4.4,
+    "category": "Kids",
+    "subcategory": "Toys & Games",
+    "type": "Learning Toys",
+    "image": "https://example.com/products/2043.jpg",
+    "brand": "Funskool",
+    "sizes": [],
+    "stock": 60
+  },
+  {
+    "id": 2044,
+    "name": "Infant Romper (3‑6M) #2044",
+    "price": 549,
+    "rating": 4.1,
+    "category": "Kids",
+    "subcategory": "Infants",
+    "type": "Rompers",
+    "image": "https://example.com/products/2044.jpg",
+    "brand": "Mothercare",
+    "sizes": ["3‑6M"],
+    "stock": 50
+  },
+  {
+    "id": 2045,
+    "name": "Girls Cotton Dress #2045",
+    "price": 1199,
+    "rating": 4.2,
+    "category": "Kids",
+    "subcategory": "Girls Clothing",
+    "type": "Dresses",
+    "image": "https://example.com/products/2045.jpg",
+    "brand": "H&M",
+    "sizes": ["3‑4Y", "5‑6Y"],
+    "stock": 45
+  },
+  {
+    "id": 2046,
+    "name": "Boys Cargo Shorts #2046",
+    "price": 899,
+    "rating": 4.0,
+    "category": "Kids",
+    "subcategory": "Boys Clothing",
+    "type": "Shorts",
+    "image": "https://example.com/products/2046.jpg",
+    "brand": "Nike",
+    "sizes": ["5‑6Y", "7‑8Y"],
+    "stock": 35
+  },
+  {
+    "id": 2047,
+    "name": "Girls Jogger Pants #2047",
+    "price": 999,
+    "rating": 4.1,
+    "category": "Kids",
+    "subcategory": "Girls Clothing",
+    "type": "Track Pants",
+    "image": "https://example.com/products/2047.jpg",
+    "brand": "Adidas",
+    "sizes": ["5‑6Y", "7‑8Y"],
+    "stock": 30
+  },
+  {
+    "id": 2048,
+    "name": "Kids Building Blocks #2048",
+    "price": 749,
+    "rating": 4.3,
+    "category": "Kids",
+    "subcategory": "Toys & Games",
+    "type": "Activity Toys",
+    "image": "https://example.com/products/2048.jpg",
+    "brand": "Lego",
+    "sizes": [],
+    "stock": 50
+  },
+  {
+    "id": 2049,
+    "name": "Girls Denim Shorts #2049",
+    "price": 899,
+    "rating": 4.2,
+    "category": "Kids",
+    "subcategory": "Girls Clothing",
+    "type": "Shorts & Skirts",
+    "image": "https://example.com/products/2049.jpg",
+    "brand": "Zara",
+    "sizes": ["5‑6Y", "7‑8Y"],
+    "stock": 40
+  },
+  {
+    "id": 2050,
+    "name": "Boys Winter Jacket #2050",
+    "price": 2599,
+    "rating": 4.4,
+    "category": "Kids",
+    "subcategory": "Boys Clothing",
+    "type": "Jackets & Coats",
+    "image": "https://example.com/products/2050.jpg",
+    "brand": "United Colors of Benetton",
+    "sizes": ["5‑6Y", "7‑8Y"],
+    "stock": 22
+  }
+  ],
+  "menu": {
+    "Men": {
+      "Topwear": [
+        "T-Shirts",
+        "Casual Shirts",
+        "Formal Shirts",
+        "Sweatshirts",
+        "Sweaters",
+        "Jackets",
+        "Blazers & Coats",
+        "Suits",
+        "Rain Jackets"
+      ],
+      "Indian & Festive Wear": [
+        "Kurtas & Kurta Sets",
+        "Sherwanis",
+        "Nehru Jackets",
+        "Dhotis"
+      ],
+      "Bottomwear": [
+        "Jeans",
+        "Casual Trousers",
+        "Formal Trousers",
+        "Shorts",
+        "Track Pants & Joggers"
+      ],
+      "Innerwear & Sleepwear": [
+        "Briefs & Trunks",
+        "Boxers",
+        "Vests",
+        "Sleepwear & Loungewear",
+        "Thermals"
+      ],
+      "Plus Size": [],
+      "Footwear": [
+        "Casual Shoes",
+        "Sports Shoes",
+        "Formal Shoes",
+        "Sneakers",
+        "Sandals & Floaters",
+        "Flip Flops",
+        "Socks"
+      ],
+      "Personal Care & Grooming": [],
+      "Sunglasses & Frames": [],
+      "Watches": [],
+      "Sports & Active Wear": [
+        "Sports Shoes",
+        "Sports Sandals",
+        "Active T-Shirts",
+        "Track Pants & Shorts",
+        "Tracksuits",
+        "Jackets & Sweatshirts",
+        "Sports Accessories",
+        "Swimwear"
+      ],
+      "Gadgets": [
+        "Smart Wearables",
+        "Fitness Gadgets",
+        "Headphones",
+        "Speakers"
+      ],
+      "Fashion Accessories": [
+        "Wallets",
+        "Belts",
+        "Perfumes & Body Mists",
+        "Trimmers",
+        "Deodorants",
+        "Ties, Cufflinks & Pocket Squares",
+        "Accessory Gift Sets",
+        "Caps & Hats",
+        "Mufflers, Scarves & Gloves",
+        "Phone Cases",
+        "Rings & Wristwear",
+        "Helmets"
+      ],
+      "Bags & Backpacks": [],
+      "Luggages & Trolleys": []
+    },
+    "Women": {
+    "Indian & Fusion Wear": [
+      "Kurtas & Suits",
+      "Kurtis, Tunics & Tops",
+      "Sarees",
+      "Ethnic Wear Sets",
+      "Dress Materials",
+      "Lehenga Cholis",
+      "Dupattas & Shawls",
+      "Blouses",
+      "Kurta Sets"
+    ],
+    "Western Wear": [
+      "Dresses",
+      "Tops",
+      "T-Shirts",
+      "Jeans",
+      "Trousers & Capris",
+      "Shorts & Skirts",
+      "Shrugs",
+      "Sweaters & Sweatshirts",
+      "Jackets & Coats",
+      "Blazers & Waistcoats"
+    ],
+    "Footwear": [
+      "Flats",
+      "Casual Shoes",
+      "Heels",
+      "Boots",
+      "Sports Shoes"
+    ],
+    "Lingerie & Sleepwear": [
+      "Bra",
+      "Briefs",
+      "Shapewear",
+      "Sleepwear & Loungewear",
+      "Camisoles & Thermals"
+    ],
+    "Beauty & Personal Care": [
+      "Makeup",
+      "Skincare",
+      "Premium Beauty",
+      "Lipsticks",
+      "Fragrances"
+    ],
+    "Gadgets": [
+      "Smart Wearables",
+      "Fitness Gadgets",
+      "Headphones",
+      "Speakers"
+    ],
+    "Jewellery": [
+      "Fashion Jewellery",
+      "Fine Jewellery",
+      "Earrings",
+      "Necklaces",
+      "Bracelets & Bangles"
+    ],
+    "Bags & Backpacks": [
+      "Handbags",
+      "Backpacks",
+      "Clutches",
+      "Wallets"
+    ],
+    "Watches & Wearables": [
+      "Watches",
+      "Smart Watches",
+      "Fitness Bands"
+    ]
+  },
+    "Kids": {
+    "Boys Clothing": ["T-Shirts", "Shirts", "Shorts", "Jeans"],
+    "Girls Clothing": ["Dresses", "Tops", "Skirts", "Jeans"],
+    "Footwear": ["Casual Shoes", "Sandals", "Flip Flops"],
+    "Toys & Games": ["Learning Toys", "Activity Toys", "Soft Toys", "Action Figures"],
+    "Infants": ["Bodysuits", "Rompers", "Sleepwear", "T-Shirts & Tops"]
+  },
+    "Home": {},
+    "Beauty": {},
+    "Genz": {},
+    "Studio": {}
+  }
+}
